@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "stages": {
+    "resource_finder": {
+      "success": true,
+      "completion_marker": "/workspaces/topological_signatures_of_reso_20260216_185244_a4fdb302/.resource_finder_complete",
+      "outputs": {
+        "literature_review": "/workspaces/topological_signatures_of_reso_20260216_185244_a4fdb302/literature_review.md",
+        "resources_catalog": "/workspaces/topological_signatures_of_reso_20260216_185244_a4fdb302/resources.md",
+        "papers_dir": "/workspaces/topological_signatures_of_reso_20260216_185244_a4fdb302/papers",
+        "datasets_dir": "/workspaces/topological_signatures_of_reso_20260216_185244_a4fdb302/datasets",
+        "code_dir": "/workspaces/topological_signatures_of_reso_20260216_185244_a4fdb302/code"
+      },
+      "log_file": "/workspaces/topological_signatures_of_reso_20260216_185244_a4fdb302/logs/resource_finder_claude.log",
+      "transcript_file": "/workspaces/topological_signatures_of_reso_20260216_185244_a4fdb302/logs/resource_finder_claude_transcript.jsonl",
+      "elapsed_time": 1249.5562517642975
+    },
+    "experiment_runner": {
+      "success": true,
+      "return_code": 0,
+      "elapsed_time": 2076.24227643013,
+      "log_file": "/workspaces/topological_signatures_of_reso_20260216_185244_a4fdb302/logs/execution_claude.log",
+      "transcript_file": "/workspaces/topological_signatures_of_reso_20260216_185244_a4fdb302/logs/execution_claude_transcript.jsonl"
+    }
+  },
+  "work_dir": "/workspaces/topological_signatures_of_reso_20260216_185244_a4fdb302"
+}

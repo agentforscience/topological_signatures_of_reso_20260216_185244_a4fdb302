@@ -1,0 +1,177 @@
+[
+  {
+    "arxiv_id": "2208.06438",
+    "title": "Topological Data Analysis of Neural Network Layer Representations",
+    "filename": "2208.06438_tda_nn_layer_representations.pdf",
+    "category": "TDA+NN",
+    "priority": "high"
+  },
+  {
+    "arxiv_id": "2011.14688",
+    "title": "Can neural networks learn persistent homology features?",
+    "filename": "2011.14688_nn_learn_persistent_homology.pdf",
+    "category": "TDA+NN",
+    "priority": "high"
+  },
+  {
+    "arxiv_id": "2507.19504",
+    "title": "TDA and Topological Deep Learning Beyond Persistent Homology -- A Review",
+    "filename": "2507.19504_tda_beyond_persistent_homology_review.pdf",
+    "category": "TDA+NN",
+    "priority": "high"
+  },
+  {
+    "arxiv_id": "2302.09826",
+    "title": "On the Expressivity of Persistent Homology in Graph Learning",
+    "filename": "2302.09826_expressivity_persistent_homology.pdf",
+    "category": "TDA+NN",
+    "priority": "medium"
+  },
+  {
+    "arxiv_id": "2011.05804",
+    "title": "Regularization of Persistent Homology Gradient Computation",
+    "filename": "2011.05804_persistent_homology_gradient.pdf",
+    "category": "TDA+NN",
+    "priority": "medium"
+  },
+  {
+    "arxiv_id": "2012.07621",
+    "title": "Intrinsic persistent homology via density-based metric learning",
+    "filename": "2012.07621_intrinsic_persistent_homology.pdf",
+    "category": "TDA+NN",
+    "priority": "medium"
+  },
+  {
+    "arxiv_id": "2309.00254",
+    "title": "How does training shape the Riemannian geometry of neural network representations?",
+    "filename": "2309.00254_riemannian_geometry_nn_representations.pdf",
+    "category": "geometry",
+    "priority": "high"
+  },
+  {
+    "arxiv_id": "2311.10217",
+    "title": "A Language and Its Dimensions: Intrinsic Dimensions of Language Fractal Structures",
+    "filename": "2311.10217_intrinsic_dimensions_language_fractal.pdf",
+    "category": "geometry",
+    "priority": "high"
+  },
+  {
+    "arxiv_id": "2012.13255",
+    "title": "Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning",
+    "filename": "2012.13255_intrinsic_dimensionality_finetuning.pdf",
+    "category": "geometry",
+    "priority": "high"
+  },
+  {
+    "arxiv_id": "2509.23024",
+    "title": "Tracing the Representation Geometry of Language Models from Pretraining to Post-training",
+    "filename": "2509.23024_representation_geometry_lm.pdf",
+    "category": "geometry",
+    "priority": "high"
+  },
+  {
+    "arxiv_id": "2311.03658",
+    "title": "The Linear Representation Hypothesis and the Geometry of Large Language Models",
+    "filename": "2311.03658_linear_representation_hypothesis.pdf",
+    "category": "geometry",
+    "priority": "high"
+  },
+  {
+    "arxiv_id": "2310.06824",
+    "title": "The Geometry of Truth: Emergent Linear Structure in LLM Representations",
+    "filename": "2310.06824_geometry_truth_llm.pdf",
+    "category": "geometry",
+    "priority": "medium"
+  },
+  {
+    "arxiv_id": "2402.18048",
+    "title": "Characterizing Truthfulness in LLM Generations with Local Intrinsic Dimension",
+    "filename": "2402.18048_truthfulness_intrinsic_dimension.pdf",
+    "category": "geometry",
+    "priority": "medium"
+  },
+  {
+    "arxiv_id": "2506.09591",
+    "title": "Memorization in Language Models through the Lens of Intrinsic Dimension",
+    "filename": "2506.09591_memorization_intrinsic_dimension.pdf",
+    "category": "geometry",
+    "priority": "medium"
+  },
+  {
+    "arxiv_id": "2506.01034",
+    "title": "Less is More: Local Intrinsic Dimensions of Contextual Language Models",
+    "filename": "2506.01034_local_intrinsic_dimensions_lm.pdf",
+    "category": "geometry",
+    "priority": "medium"
+  },
+  {
+    "arxiv_id": "2412.06245",
+    "title": "A Comparative Study of Learning Paradigms in LLMs via Intrinsic Dimension",
+    "filename": "2412.06245_learning_paradigms_intrinsic_dimension.pdf",
+    "category": "geometry",
+    "priority": "medium"
+  },
+  {
+    "arxiv_id": "2505.00773",
+    "title": "Vocabulary embeddings organize linguistic structure early in language model training",
+    "filename": "2505.00773_vocab_embeddings_linguistic_structure.pdf",
+    "category": "geometry",
+    "priority": "medium"
+  },
+  {
+    "arxiv_id": "2203.15556",
+    "title": "Training Compute-Optimal Large Language Models (Chinchilla)",
+    "filename": "2203.15556_chinchilla_compute_optimal.pdf",
+    "category": "scaling",
+    "priority": "high"
+  },
+  {
+    "arxiv_id": "2401.00448",
+    "title": "Beyond Chinchilla-Optimal: Accounting for Inference in LM Scaling Laws",
+    "filename": "2401.00448_beyond_chinchilla_optimal.pdf",
+    "category": "scaling",
+    "priority": "high"
+  },
+  {
+    "arxiv_id": "2509.23963",
+    "title": "Evaluating the Robustness of Chinchilla Compute-Optimal Scaling",
+    "filename": "2509.23963_robustness_chinchilla_scaling.pdf",
+    "category": "scaling",
+    "priority": "high"
+  },
+  {
+    "arxiv_id": "2406.12907",
+    "title": "Reconciling Kaplan and Chinchilla Scaling Laws",
+    "filename": "2406.12907_reconciling_scaling_laws.pdf",
+    "category": "scaling",
+    "priority": "high"
+  },
+  {
+    "arxiv_id": "2408.11029",
+    "title": "Scaling Law with Learning Rate Annealing",
+    "filename": "2408.11029_scaling_law_lr_annealing.pdf",
+    "category": "scaling",
+    "priority": "medium"
+  },
+  {
+    "arxiv_id": "2402.04177",
+    "title": "Scaling Laws for Downstream Task Performance of Large Language Models",
+    "filename": "2402.04177_scaling_laws_downstream.pdf",
+    "category": "scaling",
+    "priority": "medium"
+  },
+  {
+    "arxiv_id": "2404.10102",
+    "title": "Neural Scaling Laws Rooted in the Data Distribution",
+    "filename": "2404.10102_scaling_laws_data_distribution.pdf",
+    "category": "scaling",
+    "priority": "medium"
+  },
+  {
+    "arxiv_id": "1712.09913",
+    "title": "Visualizing the Loss Landscape of Neural Nets",
+    "filename": "1712.09913_loss_landscape_visualization.pdf",
+    "category": "supporting",
+    "priority": "medium"
+  }
+]

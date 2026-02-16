@@ -1,0 +1,551 @@
+[
+  {
+    "title": "Topological Data Analysis of Neural Network Layer Representations",
+    "authors": [
+      "Archie Shahidullah"
+    ],
+    "year": 2022,
+    "arxiv_id": "2208.06438v1",
+    "url": "http://arxiv.org/abs/2208.06438v1",
+    "pdf_url": "https://arxiv.org/pdf/2208.06438v1",
+    "abstract": "This paper is a cursory study on how topological features are preserved within the internal representations of neural network layers. Using techniques from topological data analysis, namely persistent homology, the topological features of a simple feedforward neural network's layer representations of a modified torus with a Klein bottle-like twist were computed. The network appeared to approximate homeomorphisms in early layers, before significantly changing the topology of the data in deeper layers. The resulting noise hampered the ability of persistent homology to compute these features, how",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "query": "all:topological data analysis AND all:neural network AND all:representation",
+    "relevance_score": 10
+  },
+  {
+    "title": "Evaluating the Robustness of Chinchilla Compute-Optimal Scaling",
+    "authors": [
+      "Rylan Schaeffer",
+      "Noam Levi",
+      "Andreas Kirsch",
+      "Theo Guenais",
+      "Brando Miranda"
+    ],
+    "year": 2025,
+    "arxiv_id": "2509.23963v1",
+    "url": "http://arxiv.org/abs/2509.23963v1",
+    "pdf_url": "https://arxiv.org/pdf/2509.23963v1",
+    "abstract": "Hoffman et al (2022)'s Chinchilla paper introduced the principle of compute-optimal scaling, laying a foundation for future scaling of language models. In the years since, however, valid concerns about Chinchilla have been raised: wide confidence intervals, discrepancies between its three approaches, and incongruities with other scaling laws. This raises a critical question for the field: Can practitioners still rely on Chinchilla's prescriptions? Our work demonstrates the answer is yes. We begin by uncovering that the model parameters central to Chinchilla's analyses were ambiguous: three int",
+    "categories": [
+      "cs.LG"
+    ],
+    "query": "all:Chinchilla scaling laws optimal training",
+    "relevance_score": 10
+  },
+  {
+    "title": "On the Expressivity of Persistent Homology in Graph Learning",
+    "authors": [
+      "Rub\u00e9n Ballester",
+      "Bastian Rieck"
+    ],
+    "year": 2023,
+    "arxiv_id": "2302.09826v4",
+    "url": "http://arxiv.org/abs/2302.09826v4",
+    "pdf_url": "https://arxiv.org/pdf/2302.09826v4",
+    "abstract": "Persistent homology, a technique from computational topology, has recently shown strong empirical performance in the context of graph classification. Being able to capture long range graph properties via higher-order topological features, such as cycles of arbitrary length, in combination with multi-scale topological descriptors, has improved predictive performance for data sets with prominent topological structures, such as molecules. At the same time, the theoretical properties of persistent homology have not been formally assessed in this context. This paper intends to bridge the gap betwee",
+    "categories": [
+      "cs.LG",
+      "math.AT",
+      "stat.ML"
+    ],
+    "query": "all:persistent homology AND all:deep learning",
+    "relevance_score": 7
+  },
+  {
+    "title": "Topological Data Analysis and Topological Deep Learning Beyond Persistent Homology -- A Review",
+    "authors": [
+      "Zhe Su",
+      "Xiang Liu",
+      "Layal Bou Hamdan",
+      "Vasileios Maroulas",
+      "Jie Wu"
+    ],
+    "year": 2025,
+    "arxiv_id": "2507.19504v1",
+    "url": "http://arxiv.org/abs/2507.19504v1",
+    "pdf_url": "https://arxiv.org/pdf/2507.19504v1",
+    "abstract": "Topological data analysis (TDA) is a rapidly evolving field in applied mathematics and data science that leverages tools from topology to uncover robust, shape-driven insights in complex datasets. The main workhorse is persistent homology, a technique rooted in algebraic topology. Paired with topological deep learning (TDL) or topological machine learning, persistent homology has achieved tremendous success in a wide variety of applications in science, engineering, medicine, and industry. However, persistent homology has many limitations due to its high-level abstraction, insensitivity to non-",
+    "categories": [
+      "math.HO",
+      "math.DG",
+      "math.GT"
+    ],
+    "query": "all:persistent homology AND all:deep learning",
+    "relevance_score": 7
+  },
+  {
+    "title": "Can neural networks learn persistent homology features?",
+    "authors": [
+      "Guido Mont\u00fafar",
+      "Nina Otter",
+      "Yuguang Wang"
+    ],
+    "year": 2020,
+    "arxiv_id": "2011.14688v1",
+    "url": "http://arxiv.org/abs/2011.14688v1",
+    "pdf_url": "https://arxiv.org/pdf/2011.14688v1",
+    "abstract": "Topological data analysis uses tools from topology -- the mathematical area that studies shapes -- to create representations of data. In particular, in persistent homology, one studies one-parameter families of spaces associated with data, and persistence diagrams describe the lifetime of topological invariants, such as connected components or holes, across the one-parameter family. In many applications, one is interested in working with features associated with persistence diagrams rather than the diagrams themselves. In our work, we explore the possibility of learning several types of featur",
+    "categories": [
+      "cs.LG",
+      "math.AT"
+    ],
+    "query": "all:persistent homology AND all:deep learning",
+    "relevance_score": 7
+  },
+  {
+    "title": "Beyond Chinchilla-Optimal: Accounting for Inference in Language Model Scaling Laws",
+    "authors": [
+      "Nikhil Sardana",
+      "Jacob Portes",
+      "Sasha Doubov",
+      "Jonathan Frankle"
+    ],
+    "year": 2023,
+    "arxiv_id": "2401.00448v3",
+    "url": "http://arxiv.org/abs/2401.00448v3",
+    "pdf_url": "https://arxiv.org/pdf/2401.00448v3",
+    "abstract": "Large language model (LLM) scaling laws are empirical formulas that estimate changes in model quality as a result of increasing parameter count and training data. However, these formulas, including the popular Deepmind Chinchilla scaling laws, neglect to include the cost of inference. We modify the Chinchilla scaling laws to calculate the optimal LLM parameter count and pre-training data size to train and deploy a model of a given quality and inference demand. We conduct our analysis both in terms of a compute budget and real-world costs and find that LLM researchers expecting reasonably large",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "query": "all:Chinchilla scaling laws optimal training",
+    "relevance_score": 7
+  },
+  {
+    "title": "Intrinsic persistent homology via density-based metric learning",
+    "authors": [
+      "Ximena Fern\u00e1ndez",
+      "Eugenio Borghini",
+      "Gabriel Mindlin",
+      "Pablo Groisman"
+    ],
+    "year": 2020,
+    "arxiv_id": "2012.07621v3",
+    "url": "http://arxiv.org/abs/2012.07621v3",
+    "pdf_url": "https://arxiv.org/pdf/2012.07621v3",
+    "abstract": "We address the problem of estimating topological features from data in high dimensional Euclidean spaces under the manifold assumption. Our approach is based on the computation of persistent homology of the space of data points endowed with a sample metric known as Fermat distance. We prove that such metric space converges almost surely to the manifold itself endowed with an intrinsic metric that accounts for both the geometry of the manifold and the density that produces the sample. This fact implies the convergence of the associated persistence diagrams. The use of this intrinsic distance wh",
+    "categories": [
+      "stat.ML",
+      "cs.LG",
+      "math.AT",
+      "math.PR"
+    ],
+    "query": "all:persistent homology AND all:deep learning",
+    "relevance_score": 6
+  },
+  {
+    "title": "Regularization of Persistent Homology Gradient Computation",
+    "authors": [
+      "Padraig Corcoran",
+      "Bailin Deng"
+    ],
+    "year": 2020,
+    "arxiv_id": "2011.05804v2",
+    "url": "http://arxiv.org/abs/2011.05804v2",
+    "pdf_url": "https://arxiv.org/pdf/2011.05804v2",
+    "abstract": "Persistent homology is a method for computing the topological features present in a given data. Recently, there has been much interest in the integration of persistent homology as a computational step in neural networks or deep learning. In order for a given computation to be integrated in such a way, the computation in question must be differentiable. Computing the gradients of persistent homology is an ill-posed inverse problem with infinitely many solutions. Consequently, it is important to perform regularization so that the solution obtained agrees with known priors. In this work we propos",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "query": "all:persistent homology AND all:deep learning",
+    "relevance_score": 6
+  },
+  {
+    "title": "Adaptive Topological Feature via Persistent Homology: Filtration Learning for Point Clouds",
+    "authors": [
+      "Naoki Nishikawa",
+      "Yuichi Ike",
+      "Kenji Yamanishi"
+    ],
+    "year": 2023,
+    "arxiv_id": "2307.09259v2",
+    "url": "http://arxiv.org/abs/2307.09259v2",
+    "pdf_url": "https://arxiv.org/pdf/2307.09259v2",
+    "abstract": "Machine learning for point clouds has been attracting much attention, with many applications in various fields, such as shape recognition and material science. For enhancing the accuracy of such machine learning methods, it is often effective to incorporate global topological features, which are typically extracted by persistent homology. In the calculation of persistent homology for a point cloud, we choose a filtration for the point cloud, an increasing sequence of spaces. Since the performance of machine learning methods combined with persistent homology is highly affected by the choice of ",
+    "categories": [
+      "cs.LG",
+      "cs.CG",
+      "cs.CV"
+    ],
+    "query": "all:persistent homology AND all:deep learning",
+    "relevance_score": 6
+  },
+  {
+    "title": "A Kernel for Multi-Parameter Persistent Homology",
+    "authors": [
+      "Ren\u00e9 Corbet",
+      "Ulderico Fugacci",
+      "Michael Kerber",
+      "Claudia Landi",
+      "Bei Wang"
+    ],
+    "year": 2018,
+    "arxiv_id": "1809.10231v2",
+    "url": "http://arxiv.org/abs/1809.10231v2",
+    "pdf_url": "https://arxiv.org/pdf/1809.10231v2",
+    "abstract": "Topological data analysis and its main method, persistent homology, provide a toolkit for computing topological information of high-dimensional and noisy data sets. Kernels for one-parameter persistent homology have been established to connect persistent homology with machine learning techniques. We contribute a kernel construction for multi-parameter persistence by integrating a one-parameter kernel weighted along straight lines. We prove that our kernel is stable and efficiently computable, which establishes a theoretical connection between topological data analysis and machine learning for ",
+    "categories": [
+      "cs.LG",
+      "cs.CG",
+      "math.AT",
+      "stat.ML"
+    ],
+    "query": "all:persistent homology AND all:deep learning",
+    "relevance_score": 6
+  },
+  {
+    "title": "Persistent Homology-Guided Frequency Filtering for Image Compression",
+    "authors": [
+      "Anil Chintapalli",
+      "Peter Tenholder",
+      "Henry Chen",
+      "Arjun Rao"
+    ],
+    "year": 2025,
+    "arxiv_id": "2512.07065v1",
+    "url": "http://arxiv.org/abs/2512.07065v1",
+    "pdf_url": "https://arxiv.org/pdf/2512.07065v1",
+    "abstract": "Feature extraction in noisy image datasets presents many challenges in model reliability. In this paper, we use the discrete Fourier transform in conjunction with persistent homology analysis to extract specific frequencies that correspond with certain topological features of an image. This method allows the image to be compressed and reformed while ensuring that meaningful data can be differentiated. Our experimental results show a level of compression comparable to that of using JPEG using six different metrics. The end goal of persistent homology-guided frequency filtration is its potential",
+    "categories": [
+      "cs.CV"
+    ],
+    "query": "all:persistent homology AND all:transformer",
+    "relevance_score": 6
+  },
+  {
+    "title": "The Extended Persistent Homology Transform of manifolds with boundary",
+    "authors": [
+      "Katharine Turner",
+      "Vanessa Robins",
+      "James Morgan"
+    ],
+    "year": 2022,
+    "arxiv_id": "2208.14583v1",
+    "url": "http://arxiv.org/abs/2208.14583v1",
+    "pdf_url": "https://arxiv.org/pdf/2208.14583v1",
+    "abstract": "The Extended Persistent Homology Transform (XPHT) is a topological transform which takes as input a shape embedded in Euclidean space, and to each unit vector assigns the extended persistence module of the height function over that shape with respect to that direction. We can define a distance between two shapes by integrating over the sphere the distance between their respective extended persistence modules. By using extended persistence we get finite distances between shapes even when they have different Betti numbers. We use Morse theory to show that the extended persistence of a height fun",
+    "categories": [
+      "math.AT"
+    ],
+    "query": "all:persistent homology AND all:transformer",
+    "relevance_score": 6
+  },
+  {
+    "title": "A Novel Heart Disease Classification Algorithm based on Fourier Transform and Persistent Homology",
+    "authors": [
+      "Yin Ni",
+      "Fupeng Sun",
+      "Yihao Luo",
+      "Zhengrui Xiang",
+      "Huafei Sun"
+    ],
+    "year": 2021,
+    "arxiv_id": "2111.15100v1",
+    "url": "http://arxiv.org/abs/2111.15100v1",
+    "pdf_url": "https://arxiv.org/pdf/2111.15100v1",
+    "abstract": "Classification and prediction of heart disease is a significant problem to realize medical treatment and life protection. In this paper, persistent homology is involved to analyze electrocardiograms and a novel heart disease classification method is proposed. Each electrocardiogram becomes a point cloud by sliding windows and fast Fourier transform embedding. The obtained point cloud reveals periodicity and stability characteristics of electrocardiograms. By persistent homology, three topological features including normalized persistent entropy, maximum life of time and maximum life of Betty n",
+    "categories": [
+      "q-bio.QM",
+      "math.GN"
+    ],
+    "query": "all:persistent homology AND all:transformer",
+    "relevance_score": 6
+  },
+  {
+    "title": "Persistent Homology Transform for Modeling Shapes and Surfaces",
+    "authors": [
+      "Katharine Turner",
+      "Sayan Mukherjee",
+      "Doug M Boyer"
+    ],
+    "year": 2013,
+    "arxiv_id": "1310.1030v2",
+    "url": "http://arxiv.org/abs/1310.1030v2",
+    "pdf_url": "https://arxiv.org/pdf/1310.1030v2",
+    "abstract": "In this paper we introduce a statistic, the persistent homology transform (PHT), to model surfaces in $\\mathbb{R}^3$ and shapes in $\\mathbb{R}^2$. This statistic is a collection of persistence diagrams - multiscale topological summaries used extensively in topological data analysis. We use the PHT to represent shapes and execute operations such as computing distances between shapes or classifying shapes. We prove the map from the space of simplicial complexes in $\\mathbb{R}^3$ into the space spanned by this statistic is injective. This implies that the statistic is a sufficient statistic for p",
+    "categories": [
+      "math.ST"
+    ],
+    "query": "all:persistent homology AND all:transformer",
+    "relevance_score": 6
+  },
+  {
+    "title": "A Language and Its Dimensions: Intrinsic Dimensions of Language Fractal Structures",
+    "authors": [
+      "Vasilii A. Gromov",
+      "Nikita S. Borodin",
+      "Asel S. Yerbolova"
+    ],
+    "year": 2023,
+    "arxiv_id": "2311.10217v2",
+    "url": "http://arxiv.org/abs/2311.10217v2",
+    "pdf_url": "https://arxiv.org/pdf/2311.10217v2",
+    "abstract": "The present paper introduces a novel object of study - a language fractal structure. We hypothesize that a set of embeddings of all $n$-grams of a natural language constitutes a representative sample of this fractal set. (We use the term Hailonakea to refer to the sum total of all language fractal structures, over all $n$). The paper estimates intrinsic (genuine) dimensions of language fractal structures for the Russian and English languages. To this end, we employ methods based on (1) topological data analysis and (2) a minimum spanning tree of a data graph for a cloud of points considered (S",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "math.AT",
+      "nlin.CD"
+    ],
+    "query": "all:intrinsic dimension AND all:language model",
+    "relevance_score": 6
+  },
+  {
+    "title": "Reconciling Kaplan and Chinchilla Scaling Laws",
+    "authors": [
+      "Tim Pearce",
+      "Jinyeop Song"
+    ],
+    "year": 2024,
+    "arxiv_id": "2406.12907v3",
+    "url": "http://arxiv.org/abs/2406.12907v3",
+    "pdf_url": "https://arxiv.org/pdf/2406.12907v3",
+    "abstract": "Kaplan et al. [2020] (`Kaplan') and Hoffmann et al. [2022] (`Chinchilla') studied the scaling behavior of transformers trained on next-token language prediction. These studies produced different estimates for how the number of parameters ($N$) and training tokens ($D$) should be set to achieve the lowest possible loss for a given compute budget ($C$). Kaplan: $N_\\text{optimal} \\propto C^{0.73}$, Chinchilla: $N_\\text{optimal} \\propto C^{0.50}$. This paper finds that much of this discrepancy can be attributed to Kaplan counting non-embedding rather than total parameters, combined with their anal",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "query": "all:Chinchilla scaling laws optimal training",
+    "relevance_score": 6
+  },
+  {
+    "title": "Memorization in Language Models through the Lens of Intrinsic Dimension",
+    "authors": [
+      "Stefan Arnold"
+    ],
+    "year": 2025,
+    "arxiv_id": "2506.09591v1",
+    "url": "http://arxiv.org/abs/2506.09591v1",
+    "pdf_url": "https://arxiv.org/pdf/2506.09591v1",
+    "abstract": "Language Models (LMs) are prone to memorizing parts of their data during training and unintentionally emitting them at generation time, raising concerns about privacy leakage and disclosure of intellectual property. While previous research has identified properties such as context length, parameter size, and duplication frequency, as key drivers of unintended memorization, little is known about how the latent structure modulates this rate of memorization. We investigate the role of Intrinsic Dimension (ID), a geometric proxy for the structural complexity of a sequence in latent space, in modul",
+    "categories": [
+      "cs.CL"
+    ],
+    "query": "all:intrinsic dimension AND all:language model",
+    "relevance_score": 5
+  },
+  {
+    "title": "Less is More: Local Intrinsic Dimensions of Contextual Language Models",
+    "authors": [
+      "Benjamin Matthias Ruppik",
+      "Julius von Rohrscheidt",
+      "Carel van Niekerk",
+      "Michael Heck",
+      "Renato Vukovic"
+    ],
+    "year": 2025,
+    "arxiv_id": "2506.01034v2",
+    "url": "http://arxiv.org/abs/2506.01034v2",
+    "pdf_url": "https://arxiv.org/pdf/2506.01034v2",
+    "abstract": "Understanding the internal mechanisms of large language models (LLMs) remains a challenging and complex endeavor. Even fundamental questions, such as how fine-tuning affects model behavior, often require extensive empirical evaluation. In this paper, we introduce a novel perspective based on the geometric properties of contextual latent embeddings to study the effects of training and fine-tuning. To that end, we measure the local dimensions of a contextual language model's latent space and analyze their shifts during training and fine-tuning. We show that the local dimensions provide insights ",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "query": "all:intrinsic dimension AND all:language model",
+    "relevance_score": 5
+  },
+  {
+    "title": "Tracing the Representation Geometry of Language Models from Pretraining to Post-training",
+    "authors": [
+      "Melody Zixuan Li",
+      "Kumar Krishna Agrawal",
+      "Arna Ghosh",
+      "Komal Kumar Teru",
+      "Adam Santoro"
+    ],
+    "year": 2025,
+    "arxiv_id": "2509.23024v1",
+    "url": "http://arxiv.org/abs/2509.23024v1",
+    "pdf_url": "https://arxiv.org/pdf/2509.23024v1",
+    "abstract": "Standard training metrics like loss fail to explain the emergence of complex capabilities in large language models. We take a spectral approach to investigate the geometry of learned representations across pretraining and post-training, measuring effective rank (RankMe) and eigenspectrum decay ($\u03b1$-ReQ). With OLMo (1B-7B) and Pythia (160M-12B) models, we uncover a consistent non-monotonic sequence of three geometric phases during autoregressive pretraining. The initial \"warmup\" phase exhibits rapid representational collapse. This is followed by an \"entropy-seeking\" phase, where the manifold's ",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ],
+    "query": "all:geometry AND all:representation AND all:language model AND all:training",
+    "relevance_score": 5
+  },
+  {
+    "title": "Scaling Law for Quantization-Aware Training",
+    "authors": [
+      "Mengzhao Chen",
+      "Chaoyi Zhang",
+      "Jing Liu",
+      "Yutao Zeng",
+      "Zeyue Xue"
+    ],
+    "year": 2025,
+    "arxiv_id": "2505.14302v1",
+    "url": "http://arxiv.org/abs/2505.14302v1",
+    "pdf_url": "https://arxiv.org/pdf/2505.14302v1",
+    "abstract": "Large language models (LLMs) demand substantial computational and memory resources, creating deployment challenges. Quantization-aware training (QAT) addresses these challenges by reducing model precision while maintaining performance. However, the scaling behavior of QAT, especially at 4-bit precision (W4A4), is not well understood. Existing QAT scaling laws often ignore key factors such as the number of training tokens and quantization granularity, which limits their applicability. This paper proposes a unified scaling law for QAT that models quantization error as a function of model size, t",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "query": "all:Chinchilla scaling laws optimal training",
+    "relevance_score": 5
+  },
+  {
+    "title": "Scaling Laws for Upcycling Mixture-of-Experts Language Models",
+    "authors": [
+      "Seng Pei Liew",
+      "Takuya Kato",
+      "Sho Takase"
+    ],
+    "year": 2025,
+    "arxiv_id": "2502.03009v2",
+    "url": "http://arxiv.org/abs/2502.03009v2",
+    "pdf_url": "https://arxiv.org/pdf/2502.03009v2",
+    "abstract": "Pretraining large language models (LLMs) is resource-intensive, often requiring months of training time even with high-end GPU clusters. There are two approaches of mitigating such computational demands: reusing smaller models to train larger ones (upcycling), and training computationally efficient models like mixture-of-experts (MoE). In this paper, we study the upcycling of LLMs to MoE models, of which the scaling behavior remains underexplored. Through extensive experiments, we identify empirical scaling laws that describe how performance depends on dataset size and model configuration. Par",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "query": "all:Chinchilla scaling laws optimal training",
+    "relevance_score": 5
+  },
+  {
+    "title": "Combinatorial Persistent Homology Transform",
+    "authors": [
+      "Brittany Terese Fasy",
+      "Amit Patel"
+    ],
+    "year": 2022,
+    "arxiv_id": "2208.05243v2",
+    "url": "http://arxiv.org/abs/2208.05243v2",
+    "pdf_url": "https://arxiv.org/pdf/2208.05243v2",
+    "abstract": "The combinatorial interpretation of the persistence diagram as a M\u00f6bius inversion was recently shown to be functorial. We employ this discovery to recast the Persistent Homology Transform of a geometric complex as a representation of a cellulation on $\\mathbb{S}^n$ to the category of combinatorial persistence diagrams. Detailed examples are provided. We hope this recasting of the PH transform will allow for the adoption of existing methods from algebraic and topological combinatorics to the study of shapes.",
+    "categories": [
+      "math.AT",
+      "cs.CG",
+      "math.CT"
+    ],
+    "query": "all:persistent homology AND all:transformer",
+    "relevance_score": 4
+  },
+  {
+    "title": "Characterizing Truthfulness in Large Language Model Generations with Local Intrinsic Dimension",
+    "authors": [
+      "Fan Yin",
+      "Jayanth Srinivasa",
+      "Kai-Wei Chang"
+    ],
+    "year": 2024,
+    "arxiv_id": "2402.18048v1",
+    "url": "http://arxiv.org/abs/2402.18048v1",
+    "pdf_url": "https://arxiv.org/pdf/2402.18048v1",
+    "abstract": "We study how to characterize and predict the truthfulness of texts generated from large language models (LLMs), which serves as a crucial step in building trust between humans and LLMs. Although several approaches based on entropy or verbalized uncertainty have been proposed to calibrate model predictions, these methods are often intractable, sensitive to hyperparameters, and less reliable when applied in generative tasks with LLMs. In this paper, we suggest investigating internal activations and quantifying LLM's truthfulness using the local intrinsic dimension (LID) of model activations. Thr",
+    "categories": [
+      "cs.CL"
+    ],
+    "query": "all:intrinsic dimension AND all:language model",
+    "relevance_score": 4
+  },
+  {
+    "title": "A Comparative Study of Learning Paradigms in Large Language Models via Intrinsic Dimension",
+    "authors": [
+      "Saahith Janapati",
+      "Yangfeng Ji"
+    ],
+    "year": 2024,
+    "arxiv_id": "2412.06245v2",
+    "url": "http://arxiv.org/abs/2412.06245v2",
+    "pdf_url": "https://arxiv.org/pdf/2412.06245v2",
+    "abstract": "The performance of Large Language Models (LLMs) on natural language tasks can be improved through both supervised fine-tuning (SFT) and in-context learning (ICL), which operate via distinct mechanisms. Supervised fine-tuning updates the model's weights by minimizing loss on training data, whereas in-context learning leverages task demonstrations embedded in the prompt, without changing the model's parameters. This study investigates the effects of these learning paradigms on the hidden representations of LLMs using Intrinsic Dimension (ID). We use ID to estimate the number of degrees of freedo",
+    "categories": [
+      "cs.CL"
+    ],
+    "query": "all:intrinsic dimension AND all:language model",
+    "relevance_score": 4
+  },
+  {
+    "title": "Intrinsic Dimensionality Explains the Effectiveness of Language Model Fine-Tuning",
+    "authors": [
+      "Armen Aghajanyan",
+      "Luke Zettlemoyer",
+      "Sonal Gupta"
+    ],
+    "year": 2020,
+    "arxiv_id": "2012.13255v1",
+    "url": "http://arxiv.org/abs/2012.13255v1",
+    "pdf_url": "https://arxiv.org/pdf/2012.13255v1",
+    "abstract": "Although pretrained language models can be fine-tuned to produce state-of-the-art results for a very wide range of language understanding tasks, the dynamics of this process are not well understood, especially in the low data regime. Why can we use relatively vanilla gradient descent algorithms (e.g., without strong regularization) to tune a model with hundreds of millions of parameters on datasets with only hundreds or thousands of labeled examples? In this paper, we argue that analyzing fine-tuning through the lens of intrinsic dimension provides us with empirical and theoretical intuitions ",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "query": "all:intrinsic dimension AND all:language model",
+    "relevance_score": 4
+  },
+  {
+    "title": "Scaling Law with Learning Rate Annealing",
+    "authors": [
+      "Howe Tissue",
+      "Venus Wang",
+      "Lu Wang"
+    ],
+    "year": 2024,
+    "arxiv_id": "2408.11029v2",
+    "url": "http://arxiv.org/abs/2408.11029v2",
+    "pdf_url": "https://arxiv.org/pdf/2408.11029v2",
+    "abstract": "We find that the cross-entropy loss curves of neural language models empirically adhere to a scaling law with learning rate (LR) annealing over training steps: $$L(s) = L_0 + A\\cdot S_1^{-\u03b1} - C\\cdot S_2,$$ where $L(s)$ is the validation loss at step $s$, $S_1$ is the area under the LR curve, $S_2$ is the LR annealing area, and $L_0$, $A$, $C$, $\u03b1$ are constant parameters. This formulation takes into account two factors: (1) power-law scaling over data size, and (2) the additional loss reduction during LR annealing. Therefore, this formulation can describe the full loss curve at each step, rat",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "query": "all:Chinchilla scaling laws optimal training",
+    "relevance_score": 4
+  },
+  {
+    "title": "Scaling Law Analysis in Federated Learning: How to Select the Optimal Model Size?",
+    "authors": [
+      "Xuanyu Chen",
+      "Nan Yang",
+      "Shuai Wang",
+      "Dong Yuan"
+    ],
+    "year": 2025,
+    "arxiv_id": "2511.12188v1",
+    "url": "http://arxiv.org/abs/2511.12188v1",
+    "pdf_url": "https://arxiv.org/pdf/2511.12188v1",
+    "abstract": "The recent success of large language models (LLMs) has sparked a growing interest in training large-scale models. As the model size continues to scale, concerns are growing about the depletion of high-quality, well-curated training data. This has led practitioners to explore training approaches like Federated Learning (FL), which can leverage the abundant data on edge devices while maintaining privacy. However, the decentralization of training datasets in FL introduces challenges to scaling large models, a topic that remains under-explored. This paper fills this gap and provides qualitative in",
+    "categories": [
+      "cs.LG"
+    ],
+    "query": "all:Chinchilla scaling laws optimal training",
+    "relevance_score": 4
+  },
+  {
+    "title": "Scaling Laws for Downstream Task Performance of Large Language Models",
+    "authors": [
+      "Berivan Isik",
+      "Natalia Ponomareva",
+      "Hussein Hazimeh",
+      "Dimitris Paparas",
+      "Sergei Vassilvitskii"
+    ],
+    "year": 2024,
+    "arxiv_id": "2402.04177v3",
+    "url": "http://arxiv.org/abs/2402.04177v3",
+    "pdf_url": "https://arxiv.org/pdf/2402.04177v3",
+    "abstract": "Scaling laws provide important insights that can guide the design of large language models (LLMs). Existing work has primarily focused on studying scaling laws for pretraining (upstream) loss. However, in transfer learning settings, in which LLMs are pretrained on an unsupervised dataset and then finetuned on a downstream task, we often also care about the downstream performance. In this work, we study the scaling behavior in a transfer learning setting, where LLMs are finetuned for machine translation tasks. Specifically, we investigate how the choice of the pretraining data and its size affe",
+    "categories": [
+      "cs.CL",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "query": "all:Chinchilla scaling laws optimal training",
+    "relevance_score": 4
+  }
+]

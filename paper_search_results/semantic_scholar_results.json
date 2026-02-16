@@ -1,0 +1,653 @@
+{
+  "b7482bf179bd230ea5ea130bf3243b1fd73658ec": {
+    "paperId": "b7482bf179bd230ea5ea130bf3243b1fd73658ec",
+    "externalIds": {
+      "DBLP": "conf/miccai/LiuCCQZSBA23",
+      "ArXiv": "2307.08347",
+      "DOI": "10.48550/arXiv.2307.08347",
+      "CorpusId": 259937591
+    },
+    "url": "https://www.semanticscholar.org/paper/b7482bf179bd230ea5ea130bf3243b1fd73658ec",
+    "title": "M-FLAG: Medical Vision-Language Pre-training with Frozen Language Models and Latent Space Geometry Optimization",
+    "year": 2023,
+    "citationCount": 73,
+    "isOpenAccess": true,
+    "openAccessPdf": {
+      "url": "https://arxiv.org/pdf/2307.08347",
+      "status": "CLOSED",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2307.08347, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2116898056",
+        "name": "Che Liu"
+      },
+      {
+        "authorId": "9537080",
+        "name": "Sibo Cheng"
+      },
+      {
+        "authorId": "40590308",
+        "name": "Chen Chen"
+      },
+      {
+        "authorId": "38288911",
+        "name": "Mengyun Qiao"
+      },
+      {
+        "authorId": "2367594864",
+        "name": "Weitong Zhang"
+      },
+      {
+        "authorId": "2223981567",
+        "name": "Anand Shah"
+      },
+      {
+        "authorId": "2064774",
+        "name": "Wenjia Bai"
+      },
+      {
+        "authorId": "2058854",
+        "name": "Rossella Arcucci"
+      }
+    ],
+    "abstract": "Medical vision-language models enable co-learning and integrating features from medical imaging and clinical text. However, these models are not easy to train and the latent representation space can be complex. Here we propose a novel way for pre-training and regularising medical vision-language models. The proposed method, named Medical vision-language pre-training with Frozen language models and Latent spAce Geometry optimization (M-FLAG), leverages a frozen language model for training stability and efficiency and introduces a novel orthogonality loss to harmonize the latent space geometry. We demonstrate the potential of the pre-trained model on three downstream tasks: medical image classification, segmentation, and object detection. Extensive experiments across five public datasets demonstrate that M-FLAG significantly outperforms existing medical vision-language pre-training approaches and reduces the number of parameters by 78\\%. Notably, M-FLAG achieves outstanding performance on the segmentation task while using only 1\\% of the RSNA dataset, even outperforming ImageNet pre-trained models that have been fine-tuned using 100\\% of the data."
+  },
+  "5c6eb70270c13983f9ee503edcb9c9f940dd3b4f": {
+    "paperId": "5c6eb70270c13983f9ee503edcb9c9f940dd3b4f",
+    "externalIds": {
+      "ArXiv": "2511.16693",
+      "DBLP": "journals/corr/abs-2511-16693",
+      "DOI": "10.48550/arXiv.2511.16693",
+      "CorpusId": 283225858
+    },
+    "url": "https://www.semanticscholar.org/paper/5c6eb70270c13983f9ee503edcb9c9f940dd3b4f",
+    "title": "How Language Directions Align with Token Geometry in Multilingual LLMs",
+    "year": 2025,
+    "citationCount": 0,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2511.16693, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2352402576",
+        "name": "Jae-Seong Kim"
+      },
+      {
+        "authorId": "2352282935",
+        "name": "Suan Lee"
+      }
+    ],
+    "abstract": "Multilingual LLMs demonstrate strong performance across diverse languages, yet there has been limited systematic analysis of how language information is structured within their internal representation space and how it emerges across layers. We conduct a comprehensive probing study on six multilingual LLMs, covering all 268 transformer layers, using linear and nonlinear probes together with a new Token--Language Alignment analysis to quantify the layer-wise dynamics and geometric structure of language encoding. Our results show that language information becomes sharply separated in the first transformer block (+76.4$\\pm$8.2 percentage points from Layer 0 to 1) and remains almost fully linearly separable throughout model depth. We further find that the alignment between language directions and vocabulary embeddings is strongly tied to the language composition of the training data. Notably, Chinese-inclusive models achieve a ZH Match@Peak of 16.43\\%, whereas English-centric models achieve only 3.90\\%, revealing a 4.21$\\times$ structural imprinting effect. These findings indicate that multilingual LLMs distinguish languages not by surface script features but by latent representational structures shaped by the training corpus. Our analysis provides practical insights for data composition strategies and fairness in multilingual representation learning. All code and analysis scripts are publicly available at: https://github.com/thisiskorea/How-Language-Directions-Align-with-Token-Geometry-in-Multilingual-LLMs."
+  },
+  "0b0688f41097d2fe089eec443ac4353a94c3fefa": {
+    "paperId": "0b0688f41097d2fe089eec443ac4353a94c3fefa",
+    "externalIds": {
+      "ArXiv": "2501.05503",
+      "DBLP": "journals/corr/abs-2501-05503",
+      "DOI": "10.1007/978-3-031-73691-9_2",
+      "CorpusId": 275458163
+    },
+    "url": "https://www.semanticscholar.org/paper/0b0688f41097d2fe089eec443ac4353a94c3fefa",
+    "title": "The more polypersonal the better - a short look on space geometry of fine-tuned layers",
+    "year": 2025,
+    "citationCount": 1,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2501.05503, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2339664654",
+        "name": "Sergei Kudriashov"
+      },
+      {
+        "authorId": "2339664634",
+        "name": "Veronika Zykova"
+      },
+      {
+        "authorId": "2339665206",
+        "name": "Angelina Stepanova"
+      },
+      {
+        "authorId": "2339664526",
+        "name": "Yakov Raskind"
+      },
+      {
+        "authorId": "2339664959",
+        "name": "Eduard Klyshinsky"
+      }
+    ],
+    "abstract": "The interpretation of deep learning models is a rapidly growing field, with particular interest in language models. There are various approaches to this task, including training simpler models to replicate neural network predictions and analyzing the latent space of the model. The latter method allows us to not only identify patterns in the model's decision-making process, but also understand the features of its internal structure. In this paper, we analyze the changes in the internal representation of the BERT model when it is trained with additional grammatical modules and data containing new grammatical structures (polypersonality). We find that adding a single grammatical layer causes the model to separate the new and old grammatical systems within itself, improving the overall performance on perplexity metrics."
+  },
+  "96af5ad10d707fd756e8036e4b4f7dc214089879": {
+    "paperId": "96af5ad10d707fd756e8036e4b4f7dc214089879",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2305-07437",
+      "ArXiv": "2305.07437",
+      "DOI": "10.48550/arXiv.2305.07437",
+      "CorpusId": 258676581
+    },
+    "url": "https://www.semanticscholar.org/paper/96af5ad10d707fd756e8036e4b4f7dc214089879",
+    "title": "Continual Vision-Language Representation Learning with Off-Diagonal Information",
+    "year": 2023,
+    "citationCount": 35,
+    "isOpenAccess": true,
+    "openAccessPdf": {
+      "url": "http://arxiv.org/pdf/2305.07437",
+      "status": "GREEN",
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2305.07437, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2120898452",
+        "name": "Zixuan Ni"
+      },
+      {
+        "authorId": "26351715",
+        "name": "Longhui Wei"
+      },
+      {
+        "authorId": "2118071462",
+        "name": "Siliang Tang"
+      },
+      {
+        "authorId": "2125211",
+        "name": "Yueting Zhuang"
+      },
+      {
+        "authorId": "2056267688",
+        "name": "Qi Tian"
+      }
+    ],
+    "abstract": "Large-scale multi-modal contrastive learning frameworks like CLIP typically require a large amount of image-text samples for training. However, these samples are always collected continuously in real scenarios. This paper discusses the feasibility of continual CLIP training using streaming data. Unlike continual learning based on self-supervised learning methods for pure images, which is empirically robust against catastrophic forgetting, CLIP's performance degeneration in the continual setting is significant and non-neglectable. By analyzing the changes in the model's representation space during continual CLIP training from a spatial geometry perspective, we explore and summarize these spatial variations as Spatial Disorder (SD), which can be divided into Intra-modal Rotation and Inter-modal Deviation. Moreover, we empirically and theoretically demonstrate how SD leads to a performance decline for CLIP on cross-modal retrieval tasks. To alleviate SD, we propose a new continual vision-language representation learning framework Mod-X: Maintain off-diagonal information-matriX. By selectively aligning the off-diagonal information distribution of contrastive matrices, the Mod-X improves the capability of the multi-modal model by maintaining the multi-modal representation space alignment on the old data domain during continuously fitting the new training data domain. Experiments on commonly used datasets with different scales and scopes have demonstrated the effectiveness of our method."
+  },
+  "dd7b2817d54c20e6c0bf854b3463c17bb18014a0": {
+    "paperId": "dd7b2817d54c20e6c0bf854b3463c17bb18014a0",
+    "externalIds": {
+      "ArXiv": "2404.03590",
+      "DBLP": "conf/eccv/LiWYLD24",
+      "DOI": "10.48550/arXiv.2404.03590",
+      "CorpusId": 268889558
+    },
+    "url": "https://www.semanticscholar.org/paper/dd7b2817d54c20e6c0bf854b3463c17bb18014a0",
+    "title": "SemGrasp: Semantic Grasp Generation via Language Aligned Discretization",
+    "year": 2024,
+    "citationCount": 34,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2404.03590, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2023790905",
+        "name": "Kailin Li"
+      },
+      {
+        "authorId": "2294928099",
+        "name": "Jingbo Wang"
+      },
+      {
+        "authorId": "2111809756",
+        "name": "Lixin Yang"
+      },
+      {
+        "authorId": "2293350006",
+        "name": "Cewu Lu"
+      },
+      {
+        "authorId": "2294874871",
+        "name": "Bo Dai"
+      }
+    ],
+    "abstract": "Generating natural human grasps necessitates consideration of not just object geometry but also semantic information. Solely depending on object shape for grasp generation confines the applications of prior methods in downstream tasks. This paper presents a novel semantic-based grasp generation method, termed SemGrasp, which generates a static human grasp pose by incorporating semantic information into the grasp representation. We introduce a discrete representation that aligns the grasp space with semantic space, enabling the generation of grasp postures in accordance with language instructions. A Multimodal Large Language Model (MLLM) is subsequently fine-tuned, integrating object, grasp, and language within a unified semantic space. To facilitate the training of SemGrasp, we have compiled a large-scale, grasp-text-aligned dataset named CapGrasp, featuring about 260k detailed captions and 50k diverse grasps. Experimental findings demonstrate that SemGrasp efficiently generates natural human grasps in alignment with linguistic intentions. Our code, models, and dataset are available publicly at: https://kailinli.github.io/SemGrasp."
+  },
+  "41ecca8e9555db472cc6df3b2bce69cccecea43c": {
+    "paperId": "41ecca8e9555db472cc6df3b2bce69cccecea43c",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2507-19247",
+      "ArXiv": "2507.19247",
+      "DOI": "10.48550/arXiv.2507.19247",
+      "CorpusId": 280045576
+    },
+    "url": "https://www.semanticscholar.org/paper/41ecca8e9555db472cc6df3b2bce69cccecea43c",
+    "title": "A Markov Categorical Framework for Language Modeling",
+    "year": 2025,
+    "citationCount": 0,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2507.19247, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2372426099",
+        "name": "Yifan Zhang"
+      }
+    ],
+    "abstract": "Autoregressive language models achieve remarkable performance, yet a unified theory explaining their internal mechanisms, how training shapes their representations, and enables complex behaviors, remains elusive. We introduce a new analytical framework that models the single-step generation process as a composition of information-processing stages using the language of Markov categories. This compositional perspective provides a unified mathematical language to connect three critical aspects of language modeling that are typically studied in isolation: the training objective, the geometry of the learned representation space, and practical model capabilities. First, our framework provides a precise information-theoretic rationale for the success of multi-token prediction methods like speculative decoding, quantifying the information surplus a model's hidden state contains about tokens beyond the immediate next one. Second, we clarify how the standard negative log-likelihood (NLL) objective compels the model to learn not just the next word, but also the data's intrinsic conditional uncertainty, a process we formalize using categorical entropy. Our central result shows that, under a linear-softmax head with bounded features, minimizing NLL induces spectral alignment: the learned representation space aligns with the eigenspectrum of a predictive similarity operator. This work presents a powerful new lens for understanding how information flows through a model and how the training objective shapes its internal geometry."
+  },
+  "479e1ba1618d35c893aa04dad3d6b6e27eda17cb": {
+    "paperId": "479e1ba1618d35c893aa04dad3d6b6e27eda17cb",
+    "externalIds": {
+      "ArXiv": "2103.14930",
+      "DBLP": "conf/emnlp/WangLLS21",
+      "DOI": "10.18653/v1/2021.findings-emnlp.42",
+      "CorpusId": 239768666
+    },
+    "url": "https://www.semanticscholar.org/paper/479e1ba1618d35c893aa04dad3d6b6e27eda17cb",
+    "title": "Hyperbolic Geometry is Not Necessary: Lightweight Euclidean-Based Models for Low-Dimensional Knowledge Graph Embeddings",
+    "year": 2021,
+    "citationCount": 22,
+    "isOpenAccess": true,
+    "openAccessPdf": {
+      "url": "https://aclanthology.org/2021.findings-emnlp.42.pdf",
+      "status": "HYBRID",
+      "license": "CCBY",
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2103.14930, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2284725308",
+        "name": "Kai Wang"
+      },
+      {
+        "authorId": "2146401270",
+        "name": "Yu Liu"
+      },
+      {
+        "authorId": "2116442505",
+        "name": "Dan Lin"
+      },
+      {
+        "authorId": "1713128",
+        "name": "Quan Z. Sheng"
+      }
+    ],
+    "abstract": "Recent knowledge graph embedding (KGE) models based on hyperbolic geometry have shown great potential in a low-dimensional embedding space. However, the necessity of hyperbolic space in KGE is still questionable, because the calculation based on hyperbolic geometry is much more complicated than Euclidean operations. In this paper, based on the state-of-the-art hyperbolic-based model RotH, we develop two lightweight Euclidean-based models, called RotL and Rot2L. The RotL model simplifies the hyperbolic operations while keeping the flexible normalization effect. Utilizing a novel two-layer stacked transformation and based on RotL, the Rot2L model obtains an improved representation capability, yet costs fewer parameters and calculations than RotH. The experiments on link prediction show that Rot2L achieves the state-of-the-art performance on two widely-used datasets in low-dimensional knowledge graph embeddings. Furthermore, RotL achieves similar performance as RotH but only requires half of the training time."
+  },
+  "fbbc7c8ea413e30c1fe352c866f6e7d0f5f10010": {
+    "paperId": "fbbc7c8ea413e30c1fe352c866f6e7d0f5f10010",
+    "externalIds": {
+      "ArXiv": "2505.04741",
+      "DBLP": "journals/corr/abs-2505-04741",
+      "DOI": "10.48550/arXiv.2505.04741",
+      "CorpusId": 278394812
+    },
+    "url": "https://www.semanticscholar.org/paper/fbbc7c8ea413e30c1fe352c866f6e7d0f5f10010",
+    "title": "When Bad Data Leads to Good Models",
+    "year": 2025,
+    "citationCount": 6,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2505.04741, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2149140708",
+        "name": "Kenneth Li"
+      },
+      {
+        "authorId": "16099092",
+        "name": "Yida Chen"
+      },
+      {
+        "authorId": "2203369547",
+        "name": "Fernanda Vi'egas"
+      },
+      {
+        "authorId": "2284685262",
+        "name": "Martin Wattenberg"
+      }
+    ],
+    "abstract": "In large language model (LLM) pretraining, data quality is believed to determine model quality. In this paper, we re-examine the notion of\"quality\"from the perspective of pre- and post-training co-design. Specifically, we explore the possibility that pre-training on more toxic data can lead to better control in post-training, ultimately decreasing a model's output toxicity. First, we use a toy experiment to study how data composition affects the geometry of features in the representation space. Next, through controlled experiments with Olmo-1B models trained on varying ratios of clean and toxic data, we find that the concept of toxicity enjoys a less entangled linear representation as the proportion of toxic data increases. Furthermore, we show that although toxic data increases the generational toxicity of the base model, it also makes the toxicity easier to remove. Evaluations on Toxigen and Real Toxicity Prompts demonstrate that models trained on toxic data achieve a better trade-off between reducing generational toxicity and preserving general capabilities when detoxifying techniques such as inference-time intervention (ITI) are applied. Our findings suggest that, with post-training taken into account, bad data may lead to good models."
+  },
+  "a4c7943e1ff275d00e5fdf00333cdb4a8705a1d6": {
+    "paperId": "a4c7943e1ff275d00e5fdf00333cdb4a8705a1d6",
+    "externalIds": {
+      "CorpusId": 271117091
+    },
+    "url": "https://www.semanticscholar.org/paper/a4c7943e1ff275d00e5fdf00333cdb4a8705a1d6",
+    "title": "Vision-Language Understanding in Hyperbolic Space",
+    "year": null,
+    "citationCount": 2,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "authors": [
+      {
+        "authorId": "2310865343",
+        "name": "Sarthak Srivastava"
+      },
+      {
+        "authorId": "2310861460",
+        "name": "Kathy Wu"
+      }
+    ],
+    "abstract": null
+  },
+  "3ed942ad5950be24e61ca3c3b003f460c794d5a7": {
+    "paperId": "3ed942ad5950be24e61ca3c3b003f460c794d5a7",
+    "externalIds": {
+      "CorpusId": 281888615
+    },
+    "url": "https://www.semanticscholar.org/paper/3ed942ad5950be24e61ca3c3b003f460c794d5a7",
+    "title": "HyperVLM: Hyperbolic Space Guided Vision Language Modeling for Hierarchical Multi-Modal Understanding",
+    "year": null,
+    "citationCount": 2,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null
+    },
+    "authors": [
+      {
+        "authorId": "2310865343",
+        "name": "Sarthak Srivastava"
+      },
+      {
+        "authorId": "2310861460",
+        "name": "Kathy Wu"
+      }
+    ],
+    "abstract": null
+  },
+  "150abb1aaf75989790c68e198c06afa2593a6766": {
+    "paperId": "150abb1aaf75989790c68e198c06afa2593a6766",
+    "externalIds": {
+      "DBLP": "conf/coling/ShahCM0C24",
+      "ACL": "2024.lrec-main.361",
+      "CorpusId": 269804071
+    },
+    "url": "https://www.semanticscholar.org/paper/150abb1aaf75989790c68e198c06afa2593a6766",
+    "title": "Correlations between Multilingual Language Model Geometry and Crosslingual Transfer Performance",
+    "year": 2024,
+    "citationCount": 1,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://aclanthology.org/2024.lrec-main.361, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2210073370",
+        "name": "Cheril Shah"
+      },
+      {
+        "authorId": "2299337325",
+        "name": "Yashashree Chandak"
+      },
+      {
+        "authorId": "2301580205",
+        "name": "Atharv Mahesh Mane"
+      },
+      {
+        "authorId": "2257347492",
+        "name": "Benjamin Bergen"
+      },
+      {
+        "authorId": "2298951984",
+        "name": "Tyler A. Chang"
+      }
+    ],
+    "abstract": null
+  },
+  "ec81cfb3c35321a7aa1e4c0dfd1bbcf7c4b97ded": {
+    "paperId": "ec81cfb3c35321a7aa1e4c0dfd1bbcf7c4b97ded",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2412-08821",
+      "ArXiv": "2412.08821",
+      "CorpusId": 274655934
+    },
+    "url": "https://www.semanticscholar.org/paper/ec81cfb3c35321a7aa1e4c0dfd1bbcf7c4b97ded",
+    "title": "Large Concept Models: Language Modeling in a Sentence Representation Space",
+    "year": 2024,
+    "citationCount": 81,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2412.08821, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2334864036",
+        "name": "The Lcm team"
+      },
+      {
+        "authorId": "2285819780",
+        "name": "L. Barrault"
+      },
+      {
+        "authorId": "2145480747",
+        "name": "Paul-Ambroise Duquenne"
+      },
+      {
+        "authorId": "2334864466",
+        "name": "Maha Elbayad"
+      },
+      {
+        "authorId": "2233293962",
+        "name": "Artyom Kozhevnikov"
+      },
+      {
+        "authorId": "2117714386",
+        "name": "Belen Alastruey"
+      },
+      {
+        "authorId": "2272476581",
+        "name": "Pierre Andrews"
+      },
+      {
+        "authorId": "2334864200",
+        "name": "Mariano Coria"
+      },
+      {
+        "authorId": "1637414390",
+        "name": "Guillaume Couairon"
+      },
+      {
+        "authorId": "1398996347",
+        "name": "M. Costa-juss\u00e0"
+      },
+      {
+        "authorId": "2266393422",
+        "name": "David Dale"
+      },
+      {
+        "authorId": "2218938",
+        "name": "Hady ElSahar"
+      },
+      {
+        "authorId": "2273469420",
+        "name": "Kevin Heffernan"
+      },
+      {
+        "authorId": "2214056898",
+        "name": "Jo\u00e3o Maria Janeiro"
+      },
+      {
+        "authorId": "2232374862",
+        "name": "Tuan Tran"
+      },
+      {
+        "authorId": "146424711",
+        "name": "C. Ropers"
+      },
+      {
+        "authorId": "2238097447",
+        "name": "Eduardo S\u00e1nchez"
+      },
+      {
+        "authorId": "2273030484",
+        "name": "Robin San Roman"
+      },
+      {
+        "authorId": "2278834438",
+        "name": "Alex Mourachko"
+      },
+      {
+        "authorId": "2475227",
+        "name": "Safiyyah Saleem"
+      },
+      {
+        "authorId": "2316581894",
+        "name": "Holger Schwenk"
+      }
+    ],
+    "abstract": "LLMs have revolutionized the field of artificial intelligence and have emerged as the de-facto tool for many tasks. The current established technology of LLMs is to process input and generate output at the token level. This is in sharp contrast to humans who operate at multiple levels of abstraction, well beyond single words, to analyze information and to generate creative content. In this paper, we present an attempt at an architecture which operates on an explicit higher-level semantic representation, which we name a concept. Concepts are language- and modality-agnostic and represent a higher level idea or action in a flow. Hence, we build a\"Large Concept Model\". In this study, as proof of feasibility, we assume that a concept corresponds to a sentence, and use an existing sentence embedding space, SONAR, which supports up to 200 languages in both text and speech modalities. The Large Concept Model is trained to perform autoregressive sentence prediction in an embedding space. We explore multiple approaches, namely MSE regression, variants of diffusion-based generation, and models operating in a quantized SONAR space. These explorations are performed using 1.6B parameter models and training data in the order of 1.3T tokens. We then scale one architecture to a model size of 7B parameters and training data of about 2.7T tokens. We perform an experimental evaluation on several generative tasks, namely summarization and a new task of summary expansion. Finally, we show that our model exhibits impressive zero-shot generalization performance to many languages, outperforming existing LLMs of the same size. The training code of our models is freely available."
+  },
+  "bcc1b1f207f5cc4e7b48be643a5f78cae14442fb": {
+    "paperId": "bcc1b1f207f5cc4e7b48be643a5f78cae14442fb",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2505-19670",
+      "ArXiv": "2505.19670",
+      "DOI": "10.48550/arXiv.2505.19670",
+      "CorpusId": 278905666
+    },
+    "url": "https://www.semanticscholar.org/paper/bcc1b1f207f5cc4e7b48be643a5f78cae14442fb",
+    "title": "Reshaping Representation Space to Balance the Safety and Over-rejection in Large Audio Language Models",
+    "year": 2025,
+    "citationCount": 1,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2505.19670, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2115538146",
+        "name": "Hao Yang"
+      },
+      {
+        "authorId": "153139892",
+        "name": "Lizhen Qu"
+      },
+      {
+        "authorId": "2888926",
+        "name": "Ehsan Shareghi"
+      },
+      {
+        "authorId": "2561045",
+        "name": "Gholamreza Haffari"
+      }
+    ],
+    "abstract": "Large Audio Language Models (LALMs) have extended the capabilities of Large Language Models (LLMs) by enabling audio-based human interactions. However, recent research has revealed that LALMs remain vulnerable to harmful queries due to insufficient safety-alignment. Despite advances in defence measures for text and vision LLMs, effective safety-alignment strategies and audio-safety dataset specifically targeting LALMs are notably absent. Meanwhile defence measures based on Supervised Fine-tuning (SFT) struggle to address safety improvement while avoiding over-rejection issues, significantly compromising helpfulness. In this work, we propose an unsupervised safety-fine-tuning strategy as remedy that reshapes model's representation space to enhance existing LALMs safety-alignment while balancing the risk of over-rejection. Our experiments, conducted across three generations of Qwen LALMs, demonstrate that our approach significantly improves LALMs safety under three modality input conditions (audio-text, text-only, and audio-only) while increasing over-rejection rate by only 0.88% on average. Warning: this paper contains harmful examples."
+  },
+  "673fbdd957cada770d10dffca5e45b53da43a3c6": {
+    "paperId": "673fbdd957cada770d10dffca5e45b53da43a3c6",
+    "externalIds": {
+      "DBLP": "journals/corr/abs-2412-06769",
+      "ArXiv": "2412.06769",
+      "DOI": "10.48550/arXiv.2412.06769",
+      "CorpusId": 274610816
+    },
+    "url": "https://www.semanticscholar.org/paper/673fbdd957cada770d10dffca5e45b53da43a3c6",
+    "title": "Training Large Language Models to Reason in a Continuous Latent Space",
+    "year": 2024,
+    "citationCount": 359,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2412.06769, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2128965713",
+        "name": "Shibo Hao"
+      },
+      {
+        "authorId": "2265067",
+        "name": "Sainbayar Sukhbaatar"
+      },
+      {
+        "authorId": "2325888815",
+        "name": "DiJia Su"
+      },
+      {
+        "authorId": "2315344189",
+        "name": "Xian Li"
+      },
+      {
+        "authorId": "2295863002",
+        "name": "Zhiting Hu"
+      },
+      {
+        "authorId": "2267341626",
+        "name": "Jason E. Weston"
+      },
+      {
+        "authorId": "2285362895",
+        "name": "Yuandong Tian"
+      }
+    ],
+    "abstract": "Large language models (LLMs) are typically constrained to reason in the language space, where they express the reasoning process through a chain-of-thought (CoT) to solve complex problems. However, the language space may not always be optimal for reasoning. Most word tokens primarily ensure textual coherence and are not essential for reasoning, while some critical tokens require complex planning and pose challenges to LLMs. To explore the potential of reasoning beyond language, we introduce a new paradigm called Coconut (Chain of Continuous Thought). Coconut utilizes the last hidden state of the LLM as a representation of the reasoning state, termed\"continuous thought.\"Instead of decoding this state into words, we feed it back to the model as the next input embedding directly in the continuous space. This latent reasoning paradigm enables an advanced reasoning pattern, where continuous thoughts can encode multiple alternative next steps, allowing the model to perform a breadth-first search (BFS) rather than committing prematurely to a single deterministic path as in CoT. Coconut outperforms CoT on logical reasoning tasks that require substantial search during planning and achieves a better trade-off between accuracy and efficiency."
+  },
+  "8bdf4beea35d4ddaeb700440c17ae5955b936b5e": {
+    "paperId": "8bdf4beea35d4ddaeb700440c17ae5955b936b5e",
+    "externalIds": {
+      "DBLP": "conf/emnlp/SimkoSSJ25",
+      "ArXiv": "2506.11938",
+      "DOI": "10.18653/v1/2025.emnlp-main.1430",
+      "CorpusId": 279391924
+    },
+    "url": "https://www.semanticscholar.org/paper/8bdf4beea35d4ddaeb700440c17ae5955b936b5e",
+    "title": "Improving Large Language Model Safety with Contrastive Representation Learning",
+    "year": 2025,
+    "citationCount": 4,
+    "isOpenAccess": false,
+    "openAccessPdf": {
+      "url": "",
+      "status": null,
+      "license": null,
+      "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2506.11938, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+    },
+    "authors": [
+      {
+        "authorId": "2362723862",
+        "name": "Samuel Simko"
+      },
+      {
+        "authorId": "2790926",
+        "name": "Mrinmaya Sachan"
+      },
+      {
+        "authorId": "2261483511",
+        "name": "Bernhard Sch\u00f6lkopf"
+      },
+      {
+        "authorId": "2111472502",
+        "name": "Zhijing Jin"
+      }
+    ],
+    "abstract": "Large Language Models (LLMs) are powerful tools with profound societal impacts, yet their ability to generate responses to diverse and uncontrolled inputs leaves them vulnerable to adversarial attacks. While existing defenses often struggle to generalize across varying attack types, recent advancements in representation engineering offer promising alternatives. In this work, we propose a defense framework that formulates model defense as a contrastive representation learning (CRL) problem. Our method finetunes a model using a triplet-based loss combined with adversarial hard negative mining to encourage separation between benign and harmful representations. Our experimental results across multiple models demonstrate that our approach outperforms prior representation engineering-based defenses, improving robustness against both input-level and embedding-space attacks without compromising standard performance. Our code is available at https://github.com/samuelsimko/crl-llm-defense"
+  }
+}

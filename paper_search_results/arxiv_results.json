@@ -1,0 +1,1785 @@
+{
+  "1609.04846v1": {
+    "title": "A Tutorial about Random Neural Networks in Supervised Learning",
+    "authors": [
+      "Sebasti\u00e1n Basterrech",
+      "Gerardo Rubino"
+    ],
+    "year": 2016,
+    "arxiv_id": "1609.04846v1",
+    "url": "http://arxiv.org/abs/1609.04846v1",
+    "pdf_url": "https://arxiv.org/pdf/1609.04846v1",
+    "abstract": "Random Neural Networks (RNNs) are a class of Neural Networks (NNs) that can also be seen as a specific type of queuing network. They have been successfully used in several domains during the last 25 years, as queuing networks to analyze the performance of resource sharing in many engineering areas, as learning tools and in combinatorial optimization, where they are seen as neural systems, and also as models of neurological aspects of living beings. In this article we focus on their learning capa",
+    "categories": [
+      "cs.NE"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "0607634v2": {
+    "title": "A statistical approach to persistent homology",
+    "authors": [
+      "Peter Bubenik",
+      "Peter T. Kim"
+    ],
+    "year": 2006,
+    "arxiv_id": "0607634v2",
+    "url": "http://arxiv.org/abs/math/0607634v2",
+    "pdf_url": "https://arxiv.org/pdf/math/0607634v2",
+    "abstract": "Assume that a finite set of points is randomly sampled from a subspace of a metric space. Recent advances in computational topology have provided several approaches to recovering the geometric and topological properties of the underlying space. In this paper we take a statistical approach to this problem. We assume that the data is randomly sampled from an unknown probability distribution. We define two filtered complexes with which we can calculate the persistent homology of a probability distr",
+    "categories": [
+      "math.AT",
+      "math.ST"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "2512.07065v1": {
+    "title": "Persistent Homology-Guided Frequency Filtering for Image Compression",
+    "authors": [
+      "Anil Chintapalli",
+      "Peter Tenholder",
+      "Henry Chen",
+      "Arjun Rao"
+    ],
+    "year": 2025,
+    "arxiv_id": "2512.07065v1",
+    "url": "http://arxiv.org/abs/2512.07065v1",
+    "pdf_url": "https://arxiv.org/pdf/2512.07065v1",
+    "abstract": "Feature extraction in noisy image datasets presents many challenges in model reliability. In this paper, we use the discrete Fourier transform in conjunction with persistent homology analysis to extract specific frequencies that correspond with certain topological features of an image. This method allows the image to be compressed and reformed while ensuring that meaningful data can be differentiated. Our experimental results show a level of compression comparable to that of using JPEG using six",
+    "categories": [
+      "cs.CV"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "1904.05081v2": {
+    "title": "Relative-perfectness of discrete gradient vector fields and multi-parameter persistent homology",
+    "authors": [
+      "Claudia Landi",
+      "Sara Scaramuccia"
+    ],
+    "year": 2019,
+    "arxiv_id": "1904.05081v2",
+    "url": "http://arxiv.org/abs/1904.05081v2",
+    "pdf_url": "https://arxiv.org/pdf/1904.05081v2",
+    "abstract": "The combination of persistent homology and discrete Morse theory has proven very effective in visualizing and analyzing big and heterogeneous data. Indeed, topology provides computable and coarse summaries of data independently from specific coordinate systems and does so robustly to noise. Moreover, the geometric content of a discrete gradient vector field is very useful for visualization purposes. The specific case of multivariate data still demands for further investigations, on the one hand,",
+    "categories": [
+      "cs.CG"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "1512.01700v5": {
+    "title": "Stabilizing the unstable output of persistent homology computations",
+    "authors": [
+      "Paul Bendich",
+      "Peter Bubenik",
+      "Alexander Wagner"
+    ],
+    "year": 2015,
+    "arxiv_id": "1512.01700v5",
+    "url": "http://arxiv.org/abs/1512.01700v5",
+    "pdf_url": "https://arxiv.org/pdf/1512.01700v5",
+    "abstract": "We propose a general technique for extracting a larger set of stable information from persistent homology computations than is currently done. The persistent homology algorithm is usually viewed as a procedure which starts with a filtered complex and ends with a persistence diagram. This procedure is stable (at least to certain types of perturbations of the input). This justifies the use of the diagram as a signature of the input, and the use of features derived from it in statistics and machine",
+    "categories": [
+      "cs.CG",
+      "math.AT"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "2502.01654v1": {
+    "title": "Predicting concentration levels of air pollutants by transfer learning and recurrent neural network",
+    "authors": [
+      "Iat Hang Fong",
+      "Tengyue Li",
+      "Simon Fong",
+      "Raymond K. Wong",
+      "Antonio J. Tall\u00f3n-Ballesteros"
+    ],
+    "year": 2025,
+    "arxiv_id": "2502.01654v1",
+    "url": "http://arxiv.org/abs/2502.01654v1",
+    "pdf_url": "https://arxiv.org/pdf/2502.01654v1",
+    "abstract": "Air pollution (AP) poses a great threat to human health, and people are paying more attention than ever to its prediction. Accurate prediction of AP helps people to plan for their outdoor activities and aids protecting human health. In this paper, long-short term memory (LSTM) recurrent neural networks (RNNs) have been used to predict the future concentration of air pollutants (APS) in Macau. Additionally, meteorological data and data on the concentration of APS have been utilized. Moreover, in ",
+    "categories": [
+      "cs.LG",
+      "cs.NE",
+      "physics.ao-ph"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "1803.02421v2": {
+    "title": "Masked Conditional Neural Networks for Audio Classification",
+    "authors": [
+      "Fady Medhat",
+      "David Chesmore",
+      "John Robinson"
+    ],
+    "year": 2018,
+    "arxiv_id": "1803.02421v2",
+    "url": "http://arxiv.org/abs/1803.02421v2",
+    "pdf_url": "https://arxiv.org/pdf/1803.02421v2",
+    "abstract": "We present the ConditionaL Neural Network (CLNN) and the Masked ConditionaL Neural Network (MCLNN) designed for temporal signal recognition. The CLNN takes into consideration the temporal nature of the sound signal and the MCLNN extends upon the CLNN through a binary mask to preserve the spatial locality of the features and allows an automated exploration of the features combination analogous to hand-crafting the most relevant features for the recognition task. MCLNN has achieved competitive rec",
+    "categories": [
+      "stat.ML",
+      "cs.LG",
+      "cs.SD",
+      "eess.AS"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "2301.11965v1": {
+    "title": "The persistent homology of genealogical networks",
+    "authors": [
+      "Zachary M. Boyd",
+      "Nick Callor",
+      "Taylor Gledhill",
+      "Abigail Jenkins",
+      "Robert Snellman"
+    ],
+    "year": 2023,
+    "arxiv_id": "2301.11965v1",
+    "url": "http://arxiv.org/abs/2301.11965v1",
+    "pdf_url": "https://arxiv.org/pdf/2301.11965v1",
+    "abstract": "Genealogical networks (i.e. family trees) are of growing interest, with the largest known data sets now including well over one billion individuals. Interest in family history also supports an 8.5 billion dollar industry whose size is projected to double within 7 years (FutureWise report HC1137). Yet little mathematical attention has been paid to the complex network properties of genealogical networks, especially at large scales.\n  The structure of genealogical networks is of particular interest",
+    "categories": [
+      "q-bio.MN",
+      "cs.DM",
+      "physics.soc-ph"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "2011.14688v1": {
+    "title": "Can neural networks learn persistent homology features?",
+    "authors": [
+      "Guido Mont\u00fafar",
+      "Nina Otter",
+      "Yuguang Wang"
+    ],
+    "year": 2020,
+    "arxiv_id": "2011.14688v1",
+    "url": "http://arxiv.org/abs/2011.14688v1",
+    "pdf_url": "https://arxiv.org/pdf/2011.14688v1",
+    "abstract": "Topological data analysis uses tools from topology -- the mathematical area that studies shapes -- to create representations of data. In particular, in persistent homology, one studies one-parameter families of spaces associated with data, and persistence diagrams describe the lifetime of topological invariants, such as connected components or holes, across the one-parameter family. In many applications, one is interested in working with features associated with persistence diagrams rather than ",
+    "categories": [
+      "cs.LG",
+      "math.AT"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "1009.5156v4": {
+    "title": "Behavior of Quillen (co)homology with respect to adjunctions",
+    "authors": [
+      "Martin Frankland"
+    ],
+    "year": 2010,
+    "arxiv_id": "1009.5156v4",
+    "url": "http://arxiv.org/abs/1009.5156v4",
+    "pdf_url": "https://arxiv.org/pdf/1009.5156v4",
+    "abstract": "This paper aims to answer the following question: Given an adjunction between two categories, how is Quillen (co)homology in one category related to that in the other? We identify the induced comparison diagram, giving necessary and sufficient conditions for it to arise, and describe the various comparison maps. Examples are given. Along the way, we clarify some categorical assumptions underlying Quillen (co)homology: cocomplete categories with a set of small projective generators provide a conv",
+    "categories": [
+      "math.AT",
+      "math.CT"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "2306.14753v1": {
+    "title": "The Deep Arbitrary Polynomial Chaos Neural Network or how Deep Artificial Neural Networks could benefit from Data-Driven Homogeneous Chaos Theory",
+    "authors": [
+      "Sergey Oladyshkin",
+      "Timothy Praditia",
+      "Ilja Kr\u00f6ker",
+      "Farid Mohammadi",
+      "Wolfgang Nowak"
+    ],
+    "year": 2023,
+    "arxiv_id": "2306.14753v1",
+    "url": "http://arxiv.org/abs/2306.14753v1",
+    "pdf_url": "https://arxiv.org/pdf/2306.14753v1",
+    "abstract": "Artificial Intelligence and Machine learning have been widely used in various fields of mathematical computing, physical modeling, computational science, communication science, and stochastic analysis. Approaches based on Deep Artificial Neural Networks (DANN) are very popular in our days. Depending on the learning task, the exact form of DANNs is determined via their multi-layer architecture, activation functions and the so-called loss function. However, for a majority of deep learning approach",
+    "categories": [
+      "cs.NE",
+      "stat.ML"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "2008.00711v3": {
+    "title": "A directed persistent homology theory for dissimilarity functions",
+    "authors": [
+      "David M\u00e9ndez",
+      "Rub\u00e9n J. S\u00e1nchez-Garc\u00eda"
+    ],
+    "year": 2020,
+    "arxiv_id": "2008.00711v3",
+    "url": "http://arxiv.org/abs/2008.00711v3",
+    "pdf_url": "https://arxiv.org/pdf/2008.00711v3",
+    "abstract": "We develop a theory of persistent homology for directed simplicial complexes which detects persistent directed cycles in odd dimensions. We relate directed persistent homology to classical persistent homology, prove some stability results, and discuss the computational challenges of our approach. Our directed persistent homology theory is motivated by homology with semiring coefficients: by explicitly removing additive inverses, we are able to detect directed cycles algebraically.",
+    "categories": [
+      "math.AT"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "2110.02458v3": {
+    "title": "Magnitude homology of graphs and discrete Morse theory on Asao-Izumihara complexes",
+    "authors": [
+      "Yu Tajima",
+      "Masahiko Yoshinaga"
+    ],
+    "year": 2021,
+    "arxiv_id": "2110.02458v3",
+    "url": "http://arxiv.org/abs/2110.02458v3",
+    "pdf_url": "https://arxiv.org/pdf/2110.02458v3",
+    "abstract": "Recently, Asao and Izumihara introduced CW-complexes whose homology groups are isomorphic to direct summands of the graph magnitude homology group. In this paper, we study the homotopy type of the CW-complexes in connection with the diagonality of magnitude homology groups. We prove that the Asao-Izumihara complex is homotopy equivalent to a wedge of spheres for pawful graphs introduced by Y. Gu. The result can be considered as a homotopy type version of Gu's result. We also formulate a slight g",
+    "categories": [
+      "math.AT",
+      "math.CO",
+      "math.MG"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "1109.5052v1": {
+    "title": "Alexander Duality for Functions: the Persistent Behavior of Land and Water and Shore",
+    "authors": [
+      "Herbert Edelsbrunner",
+      "Michael Kerber"
+    ],
+    "year": 2011,
+    "arxiv_id": "1109.5052v1",
+    "url": "http://arxiv.org/abs/1109.5052v1",
+    "pdf_url": "https://arxiv.org/pdf/1109.5052v1",
+    "abstract": "This note contributes to the point calculus of persistent homology by extending Alexander duality to real-valued functions. Given a perfect Morse function $f: S^{n+1} \\to [0,1]$ and a decomposition $S^{n+1} = U \\cup V$ such that $M = \\U \\cap V$ is an $n$-manifold, we prove elementary relationships between the persistence diagrams of $f$ restricted to $U$, to $V$, and to $M$.",
+    "categories": [
+      "math.AT",
+      "cs.CG",
+      "math.GT"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "1807.02477v1": {
+    "title": "Development of a sensory-neural network for medical diagnosing",
+    "authors": [
+      "Igor Grabec",
+      "Eva \u0160vegl",
+      "Mihael Sok"
+    ],
+    "year": 2018,
+    "arxiv_id": "1807.02477v1",
+    "url": "http://arxiv.org/abs/1807.02477v1",
+    "pdf_url": "https://arxiv.org/pdf/1807.02477v1",
+    "abstract": "Performance of a sensory-neural network developed for diagnosing of diseases is described. Information about patient's condition is provided by answers to the questionnaire. Questions correspond to sensors generating signals when patients acknowledge symptoms. These signals excite neurons in which characteristics of the diseases are represented by synaptic weights associated with indicators of symptoms. The disease corresponding to the most excited neuron is proposed as the result of diagnosing.",
+    "categories": [
+      "cs.NE"
+    ],
+    "query": "persistent homology neural network"
+  },
+  "2306.11113v2": {
+    "title": "Learn to Accumulate Evidence from All Training Samples: Theory and Practice",
+    "authors": [
+      "Deep Pandey",
+      "Qi Yu"
+    ],
+    "year": 2023,
+    "arxiv_id": "2306.11113v2",
+    "url": "http://arxiv.org/abs/2306.11113v2",
+    "pdf_url": "https://arxiv.org/pdf/2306.11113v2",
+    "abstract": "Evidential deep learning, built upon belief theory and subjective logic, offers a principled and computationally efficient way to turn a deterministic neural network uncertainty-aware. The resultant evidential models can quantify fine-grained uncertainty using the learned evidence. To ensure theoretically sound evidential models, the evidence needs to be non-negative, which requires special activation functions for model training and inference. This constraint often leads to inferior predictive ",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "cs.CV"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "2105.04026v2": {
+    "title": "The Modern Mathematics of Deep Learning",
+    "authors": [
+      "Julius Berner",
+      "Philipp Grohs",
+      "Gitta Kutyniok",
+      "Philipp Petersen"
+    ],
+    "year": 2021,
+    "arxiv_id": "2105.04026v2",
+    "url": "http://arxiv.org/abs/2105.04026v2",
+    "pdf_url": "https://arxiv.org/pdf/2105.04026v2",
+    "abstract": "We describe the new field of mathematical analysis of deep learning. This field emerged around a list of research questions that were not answered within the classical framework of learning theory. These questions concern: the outstanding generalization power of overparametrized neural networks, the role of depth in deep architectures, the apparent absence of the curse of dimensionality, the surprisingly successful optimization performance despite the non-convexity of the problem, understanding ",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "2008.13146v1": {
+    "title": "Deep Learning Techniques for Geospatial Data Analysis",
+    "authors": [
+      "Arvind W. Kiwelekar",
+      "Geetanjali S. Mahamunkar",
+      "Laxman D. Netak",
+      "Valmik B Nikam"
+    ],
+    "year": 2020,
+    "arxiv_id": "2008.13146v1",
+    "url": "http://arxiv.org/abs/2008.13146v1",
+    "pdf_url": "https://arxiv.org/pdf/2008.13146v1",
+    "abstract": "Consumer electronic devices such as mobile handsets, goods tagged with RFID labels, location and position sensors are continuously generating a vast amount of location enriched data called geospatial data. Conventionally such geospatial data is used for military applications. In recent times, many useful civilian applications have been designed and deployed around such geospatial data. For example, a recommendation system to suggest restaurants or places of attraction to a tourist visiting a par",
+    "categories": [
+      "cs.AI"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "1903.04717v2": {
+    "title": "Activation Analysis of a Byte-Based Deep Neural Network for Malware Classification",
+    "authors": [
+      "Scott E. Coull",
+      "Christopher Gardner"
+    ],
+    "year": 2019,
+    "arxiv_id": "1903.04717v2",
+    "url": "http://arxiv.org/abs/1903.04717v2",
+    "pdf_url": "https://arxiv.org/pdf/1903.04717v2",
+    "abstract": "Feature engineering is one of the most costly aspects of developing effective machine learning models, and that cost is even greater in specialized problem domains, like malware classification, where expert skills are necessary to identify useful features. Recent work, however, has shown that deep learning models can be used to automatically learn feature representations directly from the raw, unstructured bytes of the binaries themselves. In this paper, we explore what these models are learning",
+    "categories": [
+      "cs.LG",
+      "cs.CR",
+      "stat.ML"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "2301.00942v1": {
+    "title": "Deep Learning and Computational Physics (Lecture Notes)",
+    "authors": [
+      "Deep Ray",
+      "Orazio Pinti",
+      "Assad A. Oberai"
+    ],
+    "year": 2023,
+    "arxiv_id": "2301.00942v1",
+    "url": "http://arxiv.org/abs/2301.00942v1",
+    "pdf_url": "https://arxiv.org/pdf/2301.00942v1",
+    "abstract": "These notes were compiled as lecture notes for a course developed and taught at the University of the Southern California. They should be accessible to a typical engineering graduate student with a strong background in Applied Mathematics.\n  The main objective of these notes is to introduce a student who is familiar with concepts in linear algebra and partial differential equations to select topics in deep learning. These lecture notes exploit the strong connections between deep learning algorit",
+    "categories": [
+      "cs.LG",
+      "math-ph"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "2403.12562v2": {
+    "title": "PePR: Performance Per Resource Unit as a Metric to Promote Small-Scale Deep Learning in Medical Image Analysis",
+    "authors": [
+      "Raghavendra Selvan",
+      "Bob Pepin",
+      "Christian Igel",
+      "Gabrielle Samuel",
+      "Erik B Dam"
+    ],
+    "year": 2024,
+    "arxiv_id": "2403.12562v2",
+    "url": "http://arxiv.org/abs/2403.12562v2",
+    "pdf_url": "https://arxiv.org/pdf/2403.12562v2",
+    "abstract": "The recent advances in deep learning (DL) have been accelerated by access to large-scale data and compute. These large-scale resources have been used to train progressively larger models which are resource intensive in terms of compute, data, energy, and carbon emissions. These costs are becoming a new type of entry barrier to researchers and practitioners with limited access to resources at such scale, particularly in the Global South. In this work, we take a comprehensive look at the landscape",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "stat.ML"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "2005.07866v1": {
+    "title": "Byzantine-Resilient SGD in High Dimensions on Heterogeneous Data",
+    "authors": [
+      "Deepesh Data",
+      "Suhas Diggavi"
+    ],
+    "year": 2020,
+    "arxiv_id": "2005.07866v1",
+    "url": "http://arxiv.org/abs/2005.07866v1",
+    "pdf_url": "https://arxiv.org/pdf/2005.07866v1",
+    "abstract": "We study distributed stochastic gradient descent (SGD) in the master-worker architecture under Byzantine attacks. We consider the heterogeneous data model, where different workers may have different local datasets, and we do not make any probabilistic assumptions on data generation. At the core of our algorithm, we use the polynomial-time outlier-filtering procedure for robust mean estimation proposed by Steinhardt et al. (ITCS 2018) to filter-out corrupt gradients. In order to be able to apply ",
+    "categories": [
+      "stat.ML",
+      "cs.CR",
+      "cs.DC",
+      "cs.LG"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "1903.03040v2": {
+    "title": "Deep learning observables in computational fluid dynamics",
+    "authors": [
+      "Kjetil O. Lye",
+      "Siddhartha Mishra",
+      "Deep Ray"
+    ],
+    "year": 2019,
+    "arxiv_id": "1903.03040v2",
+    "url": "http://arxiv.org/abs/1903.03040v2",
+    "pdf_url": "https://arxiv.org/pdf/1903.03040v2",
+    "abstract": "Many large scale problems in computational fluid dynamics such as uncertainty quantification, Bayesian inversion, data assimilation and PDE constrained optimization are considered very challenging computationally as they require a large number of expensive (forward) numerical solutions of the corresponding PDEs. We propose a machine learning algorithm, based on deep artificial neural networks, that predicts the underlying \\emph{input parameters to observable} map from a few training samples (com",
+    "categories": [
+      "physics.comp-ph",
+      "cs.LG",
+      "math.NA",
+      "physics.flu-dyn",
+      "stat.ML"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "2012.06469v1": {
+    "title": "DILIE: Deep Internal Learning for Image Enhancement",
+    "authors": [
+      "Indra Deep Mastan",
+      "Shanmuganathan Raman"
+    ],
+    "year": 2020,
+    "arxiv_id": "2012.06469v1",
+    "url": "http://arxiv.org/abs/2012.06469v1",
+    "pdf_url": "https://arxiv.org/pdf/2012.06469v1",
+    "abstract": "We consider the generic deep image enhancement problem where an input image is transformed into a perceptually better-looking image. Recent methods for image enhancement consider the problem by performing style transfer and image restoration. The methods mostly fall into two categories: training data-based and training data-independent (deep internal learning methods). We perform image enhancement in the deep internal learning framework. Our Deep Internal Learning for Image Enhancement framework",
+    "categories": [
+      "cs.CV"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "1907.02664v2": {
+    "title": "Data Encoding for Byzantine-Resilient Distributed Optimization",
+    "authors": [
+      "Deepesh Data",
+      "Linqi Song",
+      "Suhas Diggavi"
+    ],
+    "year": 2019,
+    "arxiv_id": "1907.02664v2",
+    "url": "http://arxiv.org/abs/1907.02664v2",
+    "pdf_url": "https://arxiv.org/pdf/1907.02664v2",
+    "abstract": "We study distributed optimization in the presence of Byzantine adversaries, where both data and computation are distributed among $m$ worker machines, $t$ of which may be corrupt. The compromised nodes may collaboratively and arbitrarily deviate from their pre-specified programs, and a designated (master) node iteratively computes the model/parameter vector for generalized linear models. In this work, we primarily focus on two iterative algorithms: Proximal Gradient Descent (PGD) and Coordinate ",
+    "categories": [
+      "cs.DC",
+      "cs.CR",
+      "cs.LG"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "2512.23753v1": {
+    "title": "Generalized Regularized Evidential Deep Learning Models: Theory and Comprehensive Evaluation",
+    "authors": [
+      "Deep Shankar Pandey",
+      "Hyomin Choi",
+      "Qi Yu"
+    ],
+    "year": 2025,
+    "arxiv_id": "2512.23753v1",
+    "url": "http://arxiv.org/abs/2512.23753v1",
+    "pdf_url": "https://arxiv.org/pdf/2512.23753v1",
+    "abstract": "Evidential deep learning (EDL) models, based on Subjective Logic, introduce a principled and computationally efficient way to make deterministic neural networks uncertainty-aware. The resulting evidential models can quantify fine-grained uncertainty using learned evidence. However, the Subjective-Logic framework constrains evidence to be non-negative, requiring specific activation functions whose geometric properties can induce activation-dependent learning-freeze behavior: a regime where gradie",
+    "categories": [
+      "cs.LG",
+      "cs.AI"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "1711.00146v1": {
+    "title": "A multitask deep learning model for real-time deployment in embedded systems",
+    "authors": [
+      "Miquel Mart\u00ed",
+      "Atsuto Maki"
+    ],
+    "year": 2017,
+    "arxiv_id": "1711.00146v1",
+    "url": "http://arxiv.org/abs/1711.00146v1",
+    "pdf_url": "https://arxiv.org/pdf/1711.00146v1",
+    "abstract": "We propose an approach to Multitask Learning (MTL) to make deep learning models faster and lighter for applications in which multiple tasks need to be solved simultaneously, which is particularly useful in embedded, real-time systems. We develop a multitask model for both Object Detection and Semantic Segmentation and analyze the challenges that appear during its training. Our multitask network is 1.6x faster, lighter and uses less memory than deploying the single-task models in parallel. We con",
+    "categories": [
+      "cs.CV",
+      "cs.LG"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "2011.03712v1": {
+    "title": "DeepCFL: Deep Contextual Features Learning from a Single Image",
+    "authors": [
+      "Indra Deep Mastan",
+      "Shanmuganathan Raman"
+    ],
+    "year": 2020,
+    "arxiv_id": "2011.03712v1",
+    "url": "http://arxiv.org/abs/2011.03712v1",
+    "pdf_url": "https://arxiv.org/pdf/2011.03712v1",
+    "abstract": "Recently, there is a vast interest in developing image feature learning methods that are independent of the training data, such as deep image prior, InGAN, SinGAN, and DCIL. These methods are unsupervised and are used to perform low-level vision tasks such as image restoration, image editing, and image synthesis. In this work, we proposed a new training data-independent framework, called Deep Contextual Features Learning (DeepCFL), to perform image synthesis and image restoration based on the se",
+    "categories": [
+      "cs.CV"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "2302.04143v2": {
+    "title": "Predicting Thrombectomy Recanalization from CT Imaging Using Deep Learning Models",
+    "authors": [
+      "Haoyue Zhang",
+      "Jennifer S. Polson",
+      "Eric J. Yang",
+      "Kambiz Nael",
+      "William Speier"
+    ],
+    "year": 2023,
+    "arxiv_id": "2302.04143v2",
+    "url": "http://arxiv.org/abs/2302.04143v2",
+    "pdf_url": "https://arxiv.org/pdf/2302.04143v2",
+    "abstract": "For acute ischemic stroke (AIS) patients with large vessel occlusions, clinicians must decide if the benefit of mechanical thrombectomy (MTB) outweighs the risks and potential complications following an invasive procedure. Pre-treatment computed tomography (CT) and angiography (CTA) are widely used to characterize occlusions in the brain vasculature. If a patient is deemed eligible, a modified treatment in cerebral ischemia (mTICI) score will be used to grade how well blood flow is reestablished",
+    "categories": [
+      "eess.IV",
+      "cs.CV"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "1110.5626v1": {
+    "title": "Constraints on dark energy from H II starburst galaxy apparent magnitude versus redshift data",
+    "authors": [
+      "Data Mania",
+      "Bharat Ratra"
+    ],
+    "year": 2011,
+    "arxiv_id": "1110.5626v1",
+    "url": "http://arxiv.org/abs/1110.5626v1",
+    "pdf_url": "https://arxiv.org/pdf/1110.5626v1",
+    "abstract": "In this paper we use H II starburst galaxy apparent magnitude versus redshift data from Siegel et al. (2005) to constrain dark energy cosmological model parameters. These constraints are generally consistent with those derived using other data sets, but are not as restrictive as the tightest currently available constraints.",
+    "categories": [
+      "astro-ph.CO"
+    ],
+    "query": "topological data analysis deep learning"
+  },
+  "1204.3055v1": {
+    "title": "IVOA Recommendation: Spectrum Data Model 1.1",
+    "authors": [
+      "Jonathan McDowell",
+      "Doug Tody",
+      "Tamas Budavari",
+      "Markus Dolensky",
+      "Inga Kamp"
+    ],
+    "year": 2012,
+    "arxiv_id": "1204.3055v1",
+    "url": "http://arxiv.org/abs/1204.3055v1",
+    "pdf_url": "https://arxiv.org/pdf/1204.3055v1",
+    "abstract": "We present a data model describing the structure of spectrophotometric datasets with spectral and temporal coordinates and associated metadata. This data model may be used to represent spectra, time series data, segments of SED (Spectral Energy Distributions) and other spectral or temporal associations.",
+    "categories": [
+      "astro-ph.IM"
+    ],
+    "query": "topological data analysis language model"
+  },
+  "1111.2281v1": {
+    "title": "IVOA Recommendation: Data Model for Astronomical DataSet Characterisation",
+    "authors": [
+      "Mireille Louys",
+      "Anita Richards",
+      "Francois Bonnarel",
+      "Alberto Micol",
+      "Igor Chilingarian"
+    ],
+    "year": 2011,
+    "arxiv_id": "1111.2281v1",
+    "url": "http://arxiv.org/abs/1111.2281v1",
+    "pdf_url": "https://arxiv.org/pdf/1111.2281v1",
+    "abstract": "This document defines the high level metadata necessary to describe the physical parameter space of observed or simulated astronomical data sets, such as 2D-images, data cubes, X-ray event lists, IFU data, etc.. The Characterisation data model is an abstraction which can be used to derive a structured description of any relevant data and thus to facilitate its discovery and scientific interpretation. The model aims at facilitating the manipulation of heterogeneous data in any VO framework or por",
+    "categories": [
+      "astro-ph.IM"
+    ],
+    "query": "topological data analysis language model"
+  },
+  "0104029v1": {
+    "title": "How Many Genes Are Needed for a Discriminant Microarray Data Analysis ?",
+    "authors": [
+      "Wentian Li",
+      "Yaning Yang"
+    ],
+    "year": 2001,
+    "arxiv_id": "0104029v1",
+    "url": "http://arxiv.org/abs/physics/0104029v1",
+    "pdf_url": "https://arxiv.org/pdf/physics/0104029v1",
+    "abstract": "The analysis of the leukemia data from Whitehead/MIT group is a discriminant analysis (also called a supervised learning). Among thousands of genes whose expression levels are measured, not all are needed for discriminant analysis: a gene may either not contribute to the separation of two types of tissues/cancers, or it may be redundant because it is highly correlated with other genes. There are two theoretical frameworks in which variable selection (or gene selection in our case) can be address",
+    "categories": [
+      "physics.bio-ph",
+      "physics.data-an",
+      "q-bio.QM"
+    ],
+    "query": "topological data analysis language model"
+  },
+  "2510.21391v1": {
+    "title": "TerraGen: A Unified Multi-Task Layout Generation Framework for Remote Sensing Data Augmentation",
+    "authors": [
+      "Datao Tang",
+      "Hao Wang",
+      "Yudeng Xin",
+      "Hui Qiao",
+      "Dongsheng Jiang"
+    ],
+    "year": 2025,
+    "arxiv_id": "2510.21391v1",
+    "url": "http://arxiv.org/abs/2510.21391v1",
+    "pdf_url": "https://arxiv.org/pdf/2510.21391v1",
+    "abstract": "Remote sensing vision tasks require extensive labeled data across multiple, interconnected domains. However, current generative data augmentation frameworks are task-isolated, i.e., each vision task requires training an independent generative model, and ignores the modeling of geographical information and spatial constraints. To address these issues, we propose \\textbf{TerraGen}, a unified layout-to-image generation framework that enables flexible, spatially controllable synthesis of remote sens",
+    "categories": [
+      "cs.CV"
+    ],
+    "query": "topological data analysis language model"
+  },
+  "2411.15497v3": {
+    "title": "AeroGen: Enhancing Remote Sensing Object Detection with Diffusion-Driven Data Generation",
+    "authors": [
+      "Datao Tang",
+      "Xiangyong Cao",
+      "Xuan Wu",
+      "Jialin Li",
+      "Jing Yao"
+    ],
+    "year": 2024,
+    "arxiv_id": "2411.15497v3",
+    "url": "http://arxiv.org/abs/2411.15497v3",
+    "pdf_url": "https://arxiv.org/pdf/2411.15497v3",
+    "abstract": "Remote sensing image object detection (RSIOD) aims to identify and locate specific objects within satellite or aerial imagery. However, there is a scarcity of labeled data in current RSIOD datasets, which significantly limits the performance of current detection algorithms. Although existing techniques, e.g., data augmentation and semi-supervised learning, can mitigate this scarcity issue to some extent, they are heavily dependent on high-quality labeled data and perform worse in rare object cla",
+    "categories": [
+      "cs.CV"
+    ],
+    "query": "topological data analysis language model"
+  },
+  "1811.04757v3": {
+    "title": "DTM-based Filtrations",
+    "authors": [
+      "Hirokazu Anai",
+      "Fr\u00e9d\u00e9ric Chazal",
+      "Marc Glisse",
+      "Yuichi Ike",
+      "Hiroya Inakoshi"
+    ],
+    "year": 2018,
+    "arxiv_id": "1811.04757v3",
+    "url": "http://arxiv.org/abs/1811.04757v3",
+    "pdf_url": "https://arxiv.org/pdf/1811.04757v3",
+    "abstract": "Despite strong stability properties, the persistent homology of filtrations classically used in Topological Data Analysis, such as, e.g. the Cech or Vietoris-Rips filtrations, are very sensitive to the presence of outliers in the data from which they are computed. In this paper, we introduce and study a new family of filtrations, the DTM-filtrations, built on top of point clouds in the Euclidean space which are more robust to noise and outliers. The approach adopted in this work relies on the no",
+    "categories": [
+      "cs.CG",
+      "math.AT"
+    ],
+    "query": "topological data analysis language model"
+  },
+  "2010.16064v1": {
+    "title": "A 20 Gbps Data Transmitting ASIC with PAM4 for Particle Physics Experiments",
+    "authors": [
+      "Li Zhang",
+      "Datao Gong",
+      "Suen Hou",
+      "Guanming Huang",
+      "Xing Huang"
+    ],
+    "year": 2020,
+    "arxiv_id": "2010.16064v1",
+    "url": "http://arxiv.org/abs/2010.16064v1",
+    "pdf_url": "https://arxiv.org/pdf/2010.16064v1",
+    "abstract": "We present the design principle and test results of a data transmitting ASIC, GBS20, for particle physics experiments. The goal of GBS20 will be an ASIC that employs two serializers each from the 10.24 Gbps lpGBT SerDes, sharing the PLL also from lpGBT. A PAM4 encoder plus a VCSEL driver will be implemented in the same die to use the same clock system, eliminating the need of CDRs in the PAM4 encoder. This way the transmitter module, GBT20, developed using the GBS20 ASIC, will have the exact lpG",
+    "categories": [
+      "physics.ins-det",
+      "hep-ex"
+    ],
+    "query": "topological data analysis language model"
+  },
+  "2503.21676v2": {
+    "title": "How do language models learn facts? Dynamics, curricula and hallucinations",
+    "authors": [
+      "Nicolas Zucchet",
+      "J\u00f6rg Bornschein",
+      "Stephanie Chan",
+      "Andrew Lampinen",
+      "Razvan Pascanu"
+    ],
+    "year": 2025,
+    "arxiv_id": "2503.21676v2",
+    "url": "http://arxiv.org/abs/2503.21676v2",
+    "pdf_url": "https://arxiv.org/pdf/2503.21676v2",
+    "abstract": "Large language models accumulate vast knowledge during pre-training, yet the dynamics governing this acquisition remain poorly understood. This work investigates the learning dynamics of language models on a synthetic factual recall task, uncovering three key findings: First, language models learn in three phases, exhibiting a performance plateau before acquiring precise factual knowledge. Mechanistically, this plateau coincides with the formation of attention-based circuits that support recall.",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "query": "topological data analysis language model"
+  },
+  "2507.11773v1": {
+    "title": "Small Data Explainer -- The impact of small data methods in everyday life",
+    "authors": [
+      "Maren Hackenberg",
+      "Sophia G. Connor",
+      "Fabian Kabus",
+      "June Brawner",
+      "Ella Markham"
+    ],
+    "year": 2025,
+    "arxiv_id": "2507.11773v1",
+    "url": "http://arxiv.org/abs/2507.11773v1",
+    "pdf_url": "https://arxiv.org/pdf/2507.11773v1",
+    "abstract": "The emergence of breakthrough artificial intelligence (AI) techniques has led to a renewed focus on how small data settings, i.e., settings with limited information, can benefit from such developments. This includes societal issues such as how best to include under-represented groups in data-driven policy and decision making, or the health benefits of assistive technologies such as wearables. We provide a conceptual overview, in particular contrasting small data with big data, and identify commo",
+    "categories": [
+      "cs.CY",
+      "cs.AI"
+    ],
+    "query": "topological data analysis language model"
+  },
+  "2505.03022v2": {
+    "title": "An Introduction to Topological Data Analysis Ball Mapper in Python",
+    "authors": [
+      "Simon Rudkin"
+    ],
+    "year": 2025,
+    "arxiv_id": "2505.03022v2",
+    "url": "http://arxiv.org/abs/2505.03022v2",
+    "pdf_url": "https://arxiv.org/pdf/2505.03022v2",
+    "abstract": "Visualization of data is an important step in the understanding of data and the evaluation of statistical models. Topological Data Analysis Ball Mapper (TDABM) after Dlotko (2019), provides a model free means to visualize multivariate datasets without information loss. To permit the construction of a TDABM graph, each variable must be ordinal and have sufficiently many values to make a scatterplot of interest. Where a scatterplot works with two, or three, axes, the TDABM graph can handle any num",
+    "categories": [
+      "stat.ME"
+    ],
+    "query": "topological data analysis language model"
+  },
+  "1610.00031v1": {
+    "title": "Discriminating Similar Languages: Evaluations and Explorations",
+    "authors": [
+      "Cyril Goutte",
+      "Serge L\u00e9ger",
+      "Shervin Malmasi",
+      "Marcos Zampieri"
+    ],
+    "year": 2016,
+    "arxiv_id": "1610.00031v1",
+    "url": "http://arxiv.org/abs/1610.00031v1",
+    "pdf_url": "https://arxiv.org/pdf/1610.00031v1",
+    "abstract": "We present an analysis of the performance of machine learning classifiers on discriminating between similar languages and language varieties. We carried out a number of experiments using the results of the two editions of the Discriminating between Similar Languages (DSL) shared task. We investigate the progress made between the two tasks, estimate an upper bound on possible performance using ensemble and oracle combination, and provide learning curves to help us understand which languages are m",
+    "categories": [
+      "cs.CL"
+    ],
+    "query": "topological data analysis language model"
+  },
+  "2409.02228v1": {
+    "title": "Unforgettable Generalization in Language Models",
+    "authors": [
+      "Eric Zhang",
+      "Leshem Chosen",
+      "Jacob Andreas"
+    ],
+    "year": 2024,
+    "arxiv_id": "2409.02228v1",
+    "url": "http://arxiv.org/abs/2409.02228v1",
+    "pdf_url": "https://arxiv.org/pdf/2409.02228v1",
+    "abstract": "When language models (LMs) are trained to forget (or \"unlearn'') a skill, how precisely does their behavior change? We study the behavior of transformer LMs in which tasks have been forgotten via fine-tuning on randomized labels. Such LMs learn to generate near-random predictions for individual examples in the \"training'' set used for forgetting. Across tasks, however, LMs exhibit extreme variability in whether LM predictions change on examples outside the training set. In some tasks (like entai",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "query": "topological data analysis language model"
+  },
+  "0804.4433v1": {
+    "title": "SPACE: the SPectroscopic All-sky Cosmic Explorer",
+    "authors": [
+      "A. Cimatti",
+      "M. Robberto",
+      "C. M. Baugh",
+      "S. V. W. Beckwith",
+      "R. Content"
+    ],
+    "year": 2008,
+    "arxiv_id": "0804.4433v1",
+    "url": "http://arxiv.org/abs/0804.4433v1",
+    "pdf_url": "https://arxiv.org/pdf/0804.4433v1",
+    "abstract": "We describe the scientific motivations, the mission concept and the instrumentation of SPACE, a class-M mission proposed for concept study at the first call of the ESA Cosmic-Vision 2015-2025 planning cycle. SPACE aims to produce the largest three-dimensional evolutionary map of the Universe over the past 10 billion years by taking near-IR spectra and measuring redshifts for more than half a billion galaxies at 0<z<2 down to AB~23 over 3\u03c0sr of the sky. In addition, SPACE will also target a small",
+    "categories": [
+      "astro-ph"
+    ],
+    "query": "persistent homology embedding space"
+  },
+  "2211.02520v2": {
+    "title": "Magnitude, homology, and the Whitney twist",
+    "authors": [
+      "Emily Roff"
+    ],
+    "year": 2022,
+    "arxiv_id": "2211.02520v2",
+    "url": "http://arxiv.org/abs/2211.02520v2",
+    "pdf_url": "https://arxiv.org/pdf/2211.02520v2",
+    "abstract": "Magnitude is a numerical invariant of metric spaces and graphs, analogous, in a precise sense, to Euler characteristic. Magnitude homology is an algebraic invariant constructed to categorify magnitude. Among the important features of the magnitude of graphs is its behaviour with respect to an operation known as the Whitney twist. We give a homological account of magnitude's invariance under Whitney twists, extending the previously known result to encompass a substantially wider class of gluings.",
+    "categories": [
+      "math.CO",
+      "math.AT",
+      "math.CT",
+      "math.MG"
+    ],
+    "query": "persistent homology embedding space"
+  },
+  "2410.03889v1": {
+    "title": "Identification of Anomalous Geospatial Trajectories via Persistent Homology",
+    "authors": [
+      "Kyle Evans-Lee",
+      "Kevin Lamb"
+    ],
+    "year": 2024,
+    "arxiv_id": "2410.03889v1",
+    "url": "http://arxiv.org/abs/2410.03889v1",
+    "pdf_url": "https://arxiv.org/pdf/2410.03889v1",
+    "abstract": "We present a novel method for analyzing geospatial trajectory data using topological data analysis (TDA) to identify a specific class of anomalies, commonly referred to as crop circles, in AIS data. This approach is the first of its kind to be applied to spatiotemporal data. By embedding $2+1$-dimensional spatiotemporal data into $\\mathbb{R}^3$, we utilize persistent homology to detect loops within the trajectories in $\\mathbb{R}^2$. Our research reveals that, under normal conditions, trajectory",
+    "categories": [
+      "cs.CG"
+    ],
+    "query": "persistent homology embedding space"
+  },
+  "0905.0071v5": {
+    "title": "Homological stability for classical groups",
+    "authors": [
+      "Jan Essert"
+    ],
+    "year": 2009,
+    "arxiv_id": "0905.0071v5",
+    "url": "http://arxiv.org/abs/0905.0071v5",
+    "pdf_url": "https://arxiv.org/pdf/0905.0071v5",
+    "abstract": "Associated to every group with a weak spherical Tits system of rank n+1 with an appropriate rank n subgroup, we construct a relative spectral sequence involving group homology of Levi subgroups of both groups. Using the fact that such Levi subgroups frequently split as semidirect products of smaller groups, we prove homological stability results for unitary groups over division rings with infinite centre as well as for special linear and special orthogonal groups over infinite fields.",
+    "categories": [
+      "math.KT",
+      "math.GR"
+    ],
+    "query": "persistent homology embedding space"
+  },
+  "0907.1283v3": {
+    "title": "An interpretation of E_n-homology as functor homology",
+    "authors": [
+      "Muriel Livernet",
+      "Birgit Richter"
+    ],
+    "year": 2009,
+    "arxiv_id": "0907.1283v3",
+    "url": "http://arxiv.org/abs/0907.1283v3",
+    "pdf_url": "https://arxiv.org/pdf/0907.1283v3",
+    "abstract": "We prove that E_n-homology of non-unital commutative algebras can be described as functor homology when one considers functors from a certain category of planar trees with n levels. For different n these homology theories are connected by natural maps, ranging from Hochschild homology and its higher order versions to Gamma homology.",
+    "categories": [
+      "math.KT",
+      "math.AT"
+    ],
+    "query": "persistent homology embedding space"
+  },
+  "1506.07123v2": {
+    "title": "The homotopy fixed points of the circle action on Hochschild homology",
+    "authors": [
+      "Marc Hoyois"
+    ],
+    "year": 2015,
+    "arxiv_id": "1506.07123v2",
+    "url": "http://arxiv.org/abs/1506.07123v2",
+    "pdf_url": "https://arxiv.org/pdf/1506.07123v2",
+    "abstract": "We show that Connes' B-operator on a cyclic differential graded k-module M is a model for the canonical circle action on the geometric realization of M. This implies that the negative cyclic homology and the periodic cyclic homology of a differential graded category can be identified with the homotopy fixed points and the Tate fixed points of the circle action on its Hochschild complex.",
+    "categories": [
+      "math.KT",
+      "math.AT"
+    ],
+    "query": "persistent homology embedding space"
+  },
+  "1807.01540v3": {
+    "title": "Magnitude meets persistence. Homology theories for filtered simplicial sets",
+    "authors": [
+      "Nina Otter"
+    ],
+    "year": 2018,
+    "arxiv_id": "1807.01540v3",
+    "url": "http://arxiv.org/abs/1807.01540v3",
+    "pdf_url": "https://arxiv.org/pdf/1807.01540v3",
+    "abstract": "The Euler characteristic is an invariant of a topological space that in a precise sense captures its canonical notion of size, akin to the cardinality of a set. The Euler characteristic is closely related to the homology of a space, as it can be expressed as the alternating sum of its Betti numbers, whenever the sum is well-defined. Thus, one says that homology categorifies the Euler characteristic. In his work on the generalisation of cardinality-like invariants, Leinster introduced the magnitu",
+    "categories": [
+      "math.AT"
+    ],
+    "query": "persistent homology embedding space"
+  },
+  "2502.03009v2": {
+    "title": "Scaling Laws for Upcycling Mixture-of-Experts Language Models",
+    "authors": [
+      "Seng Pei Liew",
+      "Takuya Kato",
+      "Sho Takase"
+    ],
+    "year": 2025,
+    "arxiv_id": "2502.03009v2",
+    "url": "http://arxiv.org/abs/2502.03009v2",
+    "pdf_url": "https://arxiv.org/pdf/2502.03009v2",
+    "abstract": "Pretraining large language models (LLMs) is resource-intensive, often requiring months of training time even with high-end GPU clusters. There are two approaches of mitigating such computational demands: reusing smaller models to train larger ones (upcycling), and training computationally efficient models like mixture-of-experts (MoE). In this paper, we study the upcycling of LLMs to MoE models, of which the scaling behavior remains underexplored. Through extensive experiments, we identify empir",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "query": "scaling laws language model training"
+  },
+  "2505.14302v1": {
+    "title": "Scaling Law for Quantization-Aware Training",
+    "authors": [
+      "Mengzhao Chen",
+      "Chaoyi Zhang",
+      "Jing Liu",
+      "Yutao Zeng",
+      "Zeyue Xue"
+    ],
+    "year": 2025,
+    "arxiv_id": "2505.14302v1",
+    "url": "http://arxiv.org/abs/2505.14302v1",
+    "pdf_url": "https://arxiv.org/pdf/2505.14302v1",
+    "abstract": "Large language models (LLMs) demand substantial computational and memory resources, creating deployment challenges. Quantization-aware training (QAT) addresses these challenges by reducing model precision while maintaining performance. However, the scaling behavior of QAT, especially at 4-bit precision (W4A4), is not well understood. Existing QAT scaling laws often ignore key factors such as the number of training tokens and quantization granularity, which limits their applicability. This paper ",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "query": "scaling laws language model training"
+  },
+  "2402.04177v3": {
+    "title": "Scaling Laws for Downstream Task Performance of Large Language Models",
+    "authors": [
+      "Berivan Isik",
+      "Natalia Ponomareva",
+      "Hussein Hazimeh",
+      "Dimitris Paparas",
+      "Sergei Vassilvitskii"
+    ],
+    "year": 2024,
+    "arxiv_id": "2402.04177v3",
+    "url": "http://arxiv.org/abs/2402.04177v3",
+    "pdf_url": "https://arxiv.org/pdf/2402.04177v3",
+    "abstract": "Scaling laws provide important insights that can guide the design of large language models (LLMs). Existing work has primarily focused on studying scaling laws for pretraining (upstream) loss. However, in transfer learning settings, in which LLMs are pretrained on an unsupervised dataset and then finetuned on a downstream task, we often also care about the downstream performance. In this work, we study the scaling behavior in a transfer learning setting, where LLMs are finetuned for machine tran",
+    "categories": [
+      "cs.CL",
+      "cs.LG",
+      "stat.ML"
+    ],
+    "query": "scaling laws language model training"
+  },
+  "2408.11029v2": {
+    "title": "Scaling Law with Learning Rate Annealing",
+    "authors": [
+      "Howe Tissue",
+      "Venus Wang",
+      "Lu Wang"
+    ],
+    "year": 2024,
+    "arxiv_id": "2408.11029v2",
+    "url": "http://arxiv.org/abs/2408.11029v2",
+    "pdf_url": "https://arxiv.org/pdf/2408.11029v2",
+    "abstract": "We find that the cross-entropy loss curves of neural language models empirically adhere to a scaling law with learning rate (LR) annealing over training steps: $$L(s) = L_0 + A\\cdot S_1^{-\u03b1} - C\\cdot S_2,$$ where $L(s)$ is the validation loss at step $s$, $S_1$ is the area under the LR curve, $S_2$ is the LR annealing area, and $L_0$, $A$, $C$, $\u03b1$ are constant parameters. This formulation takes into account two factors: (1) power-law scaling over data size, and (2) the additional loss reduction",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "query": "scaling laws language model training"
+  },
+  "2412.07942v1": {
+    "title": "Neural Scaling Laws Rooted in the Data Distribution",
+    "authors": [
+      "Ari Brill"
+    ],
+    "year": 2024,
+    "arxiv_id": "2412.07942v1",
+    "url": "http://arxiv.org/abs/2412.07942v1",
+    "pdf_url": "https://arxiv.org/pdf/2412.07942v1",
+    "abstract": "Deep neural networks exhibit empirical neural scaling laws, with error decreasing as a power law with increasing model or data size, across a wide variety of architectures, tasks, and datasets. This universality suggests that scaling laws may result from general properties of natural learning tasks. We develop a mathematical model intended to describe natural datasets using percolation theory. Two distinct criticality regimes emerge, each yielding optimal power-law neural scaling laws. These reg",
+    "categories": [
+      "cs.LG",
+      "cond-mat.dis-nn"
+    ],
+    "query": "scaling laws language model training"
+  },
+  "2202.09061v4": {
+    "title": "VLP: A Survey on Vision-Language Pre-training",
+    "authors": [
+      "Feilong Chen",
+      "Duzhen Zhang",
+      "Minglun Han",
+      "Xiuyi Chen",
+      "Jing Shi"
+    ],
+    "year": 2022,
+    "arxiv_id": "2202.09061v4",
+    "url": "http://arxiv.org/abs/2202.09061v4",
+    "pdf_url": "https://arxiv.org/pdf/2202.09061v4",
+    "abstract": "In the past few years, the emergence of pre-training models has brought uni-modal fields such as computer vision (CV) and natural language processing (NLP) to a new era. Substantial works have shown they are beneficial for downstream uni-modal tasks and avoid training a new model from scratch. So can such pre-trained models be applied to multi-modal tasks? Researchers have explored this problem and made significant progress. This paper surveys recent advances and new frontiers in vision-language",
+    "categories": [
+      "cs.CV",
+      "cs.CL"
+    ],
+    "query": "scaling laws language model training"
+  },
+  "2403.13369v2": {
+    "title": "Clinical information extraction for Low-resource languages with Few-shot learning using Pre-trained language models and Prompting",
+    "authors": [
+      "Phillip Richter-Pechanski",
+      "Philipp Wiesenbach",
+      "Dominic M. Schwab",
+      "Christina Kiriakou",
+      "Nicolas Geis"
+    ],
+    "year": 2024,
+    "arxiv_id": "2403.13369v2",
+    "url": "http://arxiv.org/abs/2403.13369v2",
+    "pdf_url": "https://arxiv.org/pdf/2403.13369v2",
+    "abstract": "Automatic extraction of medical information from clinical documents poses several challenges: high costs of required clinical expertise, limited interpretability of model predictions, restricted computational resources and privacy regulations. Recent advances in domain-adaptation and prompting methods showed promising results with minimal training data using lightweight masked language models, which are suited for well-established interpretability methods. We are first to present a systematic ev",
+    "categories": [
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ],
+    "query": "scaling laws language model training"
+  },
+  "2412.01505v1": {
+    "title": "Scaling Law for Language Models Training Considering Batch Size",
+    "authors": [
+      "Xian Shuai",
+      "Yiding Wang",
+      "Yimeng Wu",
+      "Xin Jiang",
+      "Xiaozhe Ren"
+    ],
+    "year": 2024,
+    "arxiv_id": "2412.01505v1",
+    "url": "http://arxiv.org/abs/2412.01505v1",
+    "pdf_url": "https://arxiv.org/pdf/2412.01505v1",
+    "abstract": "Large language models (LLMs) have made remarkable advances in recent years, with scaling laws playing a critical role in this rapid progress. In this paper, we empirically investigate how a critical hyper-parameter, i.e., the global batch size, influences the LLM training prdocess. We begin by training language models ranging from 125 million to 2.6 billion parameters, using up to 300 billion high-quality tokens. Through these experiments, we establish a basic scaling law on model size and train",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "query": "scaling laws language model training"
+  },
+  "2402.13991v1": {
+    "title": "Analysing The Impact of Sequence Composition on Language Model Pre-Training",
+    "authors": [
+      "Yu Zhao",
+      "Yuanbin Qu",
+      "Konrad Staniszewski",
+      "Szymon Tworkowski",
+      "Wei Liu"
+    ],
+    "year": 2024,
+    "arxiv_id": "2402.13991v1",
+    "url": "http://arxiv.org/abs/2402.13991v1",
+    "pdf_url": "https://arxiv.org/pdf/2402.13991v1",
+    "abstract": "Most language model pre-training frameworks concatenate multiple documents into fixed-length sequences and use causal masking to compute the likelihood of each token given its context; this strategy is widely adopted due to its simplicity and efficiency. However, to this day, the influence of the pre-training sequence composition strategy on the generalisation properties of the model remains under-explored. In this work, we find that applying causal masking can lead to the inclusion of distracti",
+    "categories": [
+      "cs.CL"
+    ],
+    "query": "scaling laws language model training"
+  },
+  "2403.09832v1": {
+    "title": "Scaling Behavior of Machine Translation with Large Language Models under Prompt Injection Attacks",
+    "authors": [
+      "Zhifan Sun",
+      "Antonio Valerio Miceli-Barone"
+    ],
+    "year": 2024,
+    "arxiv_id": "2403.09832v1",
+    "url": "http://arxiv.org/abs/2403.09832v1",
+    "pdf_url": "https://arxiv.org/pdf/2403.09832v1",
+    "abstract": "Large Language Models (LLMs) are increasingly becoming the preferred foundation platforms for many Natural Language Processing tasks such as Machine Translation, owing to their quality often comparable to or better than task-specific models, and the simplicity of specifying the task through natural language instructions or in-context examples. Their generality, however, opens them up to subversion by end users who may embed into their requests instructions that cause the model to behave in unaut",
+    "categories": [
+      "cs.CL"
+    ],
+    "query": "scaling laws language model training"
+  },
+  "2410.12119v3": {
+    "title": "Scaling Laws for Post Training Quantized Large Language Models",
+    "authors": [
+      "Zifei Xu",
+      "Alexander Lan",
+      "Wanzin Yazar",
+      "Tristan Webb",
+      "Sayeh Sharify"
+    ],
+    "year": 2024,
+    "arxiv_id": "2410.12119v3",
+    "url": "http://arxiv.org/abs/2410.12119v3",
+    "pdf_url": "https://arxiv.org/pdf/2410.12119v3",
+    "abstract": "Generalization abilities of well-trained large language models (LLMs) are known to scale predictably as a function of model size. In contrast to the existence of practical scaling laws governing pre-training, the quality of LLMs after post-training compression remains highly unpredictable, often requiring case-by-case validation in practice. In this work, we attempted to close this gap for post-training weight quantization of LLMs by conducting a systematic empirical study on multiple LLM famili",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "query": "scaling laws language model training"
+  },
+  "2304.12244v3": {
+    "title": "WizardLM: Empowering large pre-trained language models to follow complex instructions",
+    "authors": [
+      "Can Xu",
+      "Qingfeng Sun",
+      "Kai Zheng",
+      "Xiubo Geng",
+      "Pu Zhao"
+    ],
+    "year": 2023,
+    "arxiv_id": "2304.12244v3",
+    "url": "http://arxiv.org/abs/2304.12244v3",
+    "pdf_url": "https://arxiv.org/pdf/2304.12244v3",
+    "abstract": "Training large language models (LLMs) with open-domain instruction following data brings colossal success. However, manually creating such instruction data is very time-consuming and labor-intensive. Moreover, humans may struggle to produce high-complexity instructions. In this paper, we show an avenue for creating large amounts of instruction data with varying levels of complexity using LLM instead of humans. Starting with an initial set of instructions, we use our proposed Evol-Instruct to rew",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "query": "scaling laws language model training"
+  },
+  "2412.11553v2": {
+    "title": "Training Strategies for Isolated Sign Language Recognition",
+    "authors": [
+      "Karina Kvanchiani",
+      "Roman Kraynov",
+      "Elizaveta Petrova",
+      "Petr Surovcev",
+      "Aleksandr Nagaev"
+    ],
+    "year": 2024,
+    "arxiv_id": "2412.11553v2",
+    "url": "http://arxiv.org/abs/2412.11553v2",
+    "pdf_url": "https://arxiv.org/pdf/2412.11553v2",
+    "abstract": "Accurate recognition and interpretation of sign language are crucial for enhancing communication accessibility for deaf and hard of hearing individuals. However, current approaches of Isolated Sign Language Recognition (ISLR) often face challenges such as low data quality and variability in gesturing speed. This paper introduces a comprehensive model training pipeline for ISLR designed to accommodate the distinctive characteristics and constraints of the Sign Language (SL) domain. The constructe",
+    "categories": [
+      "cs.CV"
+    ],
+    "query": "scaling laws language model training"
+  },
+  "2412.16365v1": {
+    "title": "Overview of the First Workshop on Language Models for Low-Resource Languages (LoResLM 2025)",
+    "authors": [
+      "Hansi Hettiarachchi",
+      "Tharindu Ranasinghe",
+      "Paul Rayson",
+      "Ruslan Mitkov",
+      "Mohamed Gaber"
+    ],
+    "year": 2024,
+    "arxiv_id": "2412.16365v1",
+    "url": "http://arxiv.org/abs/2412.16365v1",
+    "pdf_url": "https://arxiv.org/pdf/2412.16365v1",
+    "abstract": "The first Workshop on Language Models for Low-Resource Languages (LoResLM 2025) was held in conjunction with the 31st International Conference on Computational Linguistics (COLING 2025) in Abu Dhabi, United Arab Emirates. This workshop mainly aimed to provide a forum for researchers to share and discuss their ongoing work on language models (LMs) focusing on low-resource languages, following the recent advancements in neural language models and their linguistic biases towards high-resource langu",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "query": "resource constrained language model"
+  },
+  "2212.03812v1": {
+    "title": "An Overview of Indian Spoken Language Recognition from Machine Learning Perspective",
+    "authors": [
+      "Spandan Dey",
+      "Md Sahidullah",
+      "Goutam Saha"
+    ],
+    "year": 2022,
+    "arxiv_id": "2212.03812v1",
+    "url": "http://arxiv.org/abs/2212.03812v1",
+    "pdf_url": "https://arxiv.org/pdf/2212.03812v1",
+    "abstract": "Automatic spoken language identification (LID) is a very important research field in the era of multilingual voice-command-based human-computer interaction (HCI). A front-end LID module helps to improve the performance of many speech-based applications in the multilingual scenario. India is a populous country with diverse cultures and languages. The majority of the Indian population needs to use their respective native languages for verbal interaction with machines. Therefore, the development of",
+    "categories": [
+      "cs.CL",
+      "cs.SD",
+      "eess.AS"
+    ],
+    "query": "resource constrained language model"
+  },
+  "2202.12288v1": {
+    "title": "Toward More Meaningful Resources for Lower-resourced Languages",
+    "authors": [
+      "Constantine Lignos",
+      "Nolan Holley",
+      "Chester Palen-Michel",
+      "Jonne S\u00e4lev\u00e4"
+    ],
+    "year": 2022,
+    "arxiv_id": "2202.12288v1",
+    "url": "http://arxiv.org/abs/2202.12288v1",
+    "pdf_url": "https://arxiv.org/pdf/2202.12288v1",
+    "abstract": "In this position paper, we describe our perspective on how meaningful resources for lower-resourced languages should be developed in connection with the speakers of those languages. We first examine two massively multilingual resources in detail. We explore the contents of the names stored in Wikidata for a few lower-resourced languages and find that many of them are not in fact in the languages they claim to be and require non-trivial effort to correct. We discuss quality issues present in Wiki",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "query": "resource constrained language model"
+  },
+  "2206.05395v2": {
+    "title": "Why is constrained neural language generation particularly challenging?",
+    "authors": [
+      "Cristina Garbacea",
+      "Qiaozhu Mei"
+    ],
+    "year": 2022,
+    "arxiv_id": "2206.05395v2",
+    "url": "http://arxiv.org/abs/2206.05395v2",
+    "pdf_url": "https://arxiv.org/pdf/2206.05395v2",
+    "abstract": "Recent advances in deep neural language models combined with the capacity of large scale datasets have accelerated the development of natural language generation systems that produce fluent and coherent texts (to various degrees of success) in a multitude of tasks and application contexts. However, controlling the output of these models for desired user and task needs is still an open challenge. This is crucial not only to customizing the content and style of the generated language, but also to ",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "query": "resource constrained language model"
+  },
+  "2412.10008v1": {
+    "title": "Automated Collection of Evaluation Dataset for Semantic Search in Low-Resource Domain Language",
+    "authors": [
+      "Anastasia Zhukova",
+      "Christian E. Matt",
+      "Bela Gipp"
+    ],
+    "year": 2024,
+    "arxiv_id": "2412.10008v1",
+    "url": "http://arxiv.org/abs/2412.10008v1",
+    "pdf_url": "https://arxiv.org/pdf/2412.10008v1",
+    "abstract": "Domain-specific languages that use a lot of specific terminology often fall into the category of low-resource languages. Collecting test datasets in a narrow domain is time-consuming and requires skilled human resources with domain knowledge and training for the annotation task. This study addresses the challenge of automated collecting test datasets to evaluate semantic search in low-resource domain-specific German language of the process industry. Our approach proposes an end-to-end annotation",
+    "categories": [
+      "cs.CL"
+    ],
+    "query": "resource constrained language model"
+  },
+  "2207.08179v1": {
+    "title": "End-to-End Spoken Language Understanding: Performance analyses of a voice command task in a low resource setting",
+    "authors": [
+      "Thierry Desot",
+      "Fran\u00e7ois Portet",
+      "Michel Vacher"
+    ],
+    "year": 2022,
+    "arxiv_id": "2207.08179v1",
+    "url": "http://arxiv.org/abs/2207.08179v1",
+    "pdf_url": "https://arxiv.org/pdf/2207.08179v1",
+    "abstract": "Spoken Language Understanding (SLU) is a core task in most human-machine interaction systems. With the emergence of smart homes, smart phones and smart speakers, SLU has become a key technology for the industry. In a classical SLU approach, an Automatic Speech Recognition (ASR) module transcribes the speech signal into a textual representation from which a Natural Language Understanding (NLU) module extracts semantic information. Recently End-to-End SLU (E2E SLU) based on Deep Neural Networks ha",
+    "categories": [
+      "cs.CL",
+      "cs.SD",
+      "eess.AS"
+    ],
+    "query": "resource constrained language model"
+  },
+  "2411.00727v2": {
+    "title": "SPRING Lab IITM's submission to Low Resource Indic Language Translation Shared Task",
+    "authors": [
+      "Hamees Sayed",
+      "Advait Joglekar",
+      "Srinivasan Umesh"
+    ],
+    "year": 2024,
+    "arxiv_id": "2411.00727v2",
+    "url": "http://arxiv.org/abs/2411.00727v2",
+    "pdf_url": "https://arxiv.org/pdf/2411.00727v2",
+    "abstract": "We develop a robust translation model for four low-resource Indic languages: Khasi, Mizo, Manipuri, and Assamese. Our approach includes a comprehensive pipeline from data collection and preprocessing to training and evaluation, leveraging data from WMT task datasets, BPCC, PMIndia, and OpenLanguageData. To address the scarcity of bilingual data, we use back-translation techniques on monolingual datasets for Mizo and Khasi, significantly expanding our training corpus. We fine-tune the pre-trained",
+    "categories": [
+      "cs.CL",
+      "cs.AI"
+    ],
+    "query": "resource constrained language model"
+  },
+  "2205.02364v3": {
+    "title": "KenSwQuAD -- A Question Answering Dataset for Swahili Low Resource Language",
+    "authors": [
+      "Barack W. Wanjawa",
+      "Lilian D. A. Wanzare",
+      "Florence Indede",
+      "Owen McOnyango",
+      "Lawrence Muchemi"
+    ],
+    "year": 2022,
+    "arxiv_id": "2205.02364v3",
+    "url": "http://arxiv.org/abs/2205.02364v3",
+    "pdf_url": "https://arxiv.org/pdf/2205.02364v3",
+    "abstract": "The need for Question Answering datasets in low resource languages is the motivation of this research, leading to the development of Kencorpus Swahili Question Answering Dataset, KenSwQuAD. This dataset is annotated from raw story texts of Swahili low resource language, which is a predominantly spoken in Eastern African and in other parts of the world. Question Answering (QA) datasets are important for machine comprehension of natural language for tasks such as internet search and dialog systems",
+    "categories": [
+      "cs.CL",
+      "cs.LG"
+    ],
+    "query": "resource constrained language model"
+  },
+  "2507.19261v1": {
+    "title": "Knowledge Grafting: A Mechanism for Optimizing AI Model Deployment in Resource-Constrained Environments",
+    "authors": [
+      "Osama Almurshed",
+      "Ashish Kaushal",
+      "Asmail Muftah",
+      "Nitin Auluck",
+      "Omer Rana"
+    ],
+    "year": 2025,
+    "arxiv_id": "2507.19261v1",
+    "url": "http://arxiv.org/abs/2507.19261v1",
+    "pdf_url": "https://arxiv.org/pdf/2507.19261v1",
+    "abstract": "The increasing adoption of Artificial Intelligence (AI) has led to larger, more complex models with numerous parameters that require substantial computing power -- resources often unavailable in many real-world application scenarios. Our paper addresses this challenge by introducing knowledge grafting, a novel mechanism that optimizes AI models for resource-constrained environments by transferring selected features (the scion) from a large donor model to a smaller rootstock model. The approach a",
+    "categories": [
+      "cs.AI",
+      "cs.LG",
+      "cs.PF"
+    ],
+    "query": "resource constrained language model"
+  },
+  "2507.05322v1": {
+    "title": "Dataless Neural Networks for Resource-Constrained Project Scheduling",
+    "authors": [
+      "Marc Bara"
+    ],
+    "year": 2025,
+    "arxiv_id": "2507.05322v1",
+    "url": "http://arxiv.org/abs/2507.05322v1",
+    "pdf_url": "https://arxiv.org/pdf/2507.05322v1",
+    "abstract": "Dataless neural networks represent a paradigm shift in applying neural architectures to combinatorial optimization problems, eliminating the need for training datasets by encoding problem instances directly into network parameters. Despite the pioneering work of Alkhouri et al. (2022) demonstrating the viability of dataless approaches for the Maximum Independent Set problem, our comprehensive literature review reveals that no published work has extended these methods to the Resource-Constrained ",
+    "categories": [
+      "cs.LG",
+      "cs.NE"
+    ],
+    "query": "resource constrained language model"
+  },
+  "2403.17811v1": {
+    "title": "Are Compressed Language Models Less Subgroup Robust?",
+    "authors": [
+      "Leonidas Gee",
+      "Andrea Zugarini",
+      "Novi Quadrianto"
+    ],
+    "year": 2024,
+    "arxiv_id": "2403.17811v1",
+    "url": "http://arxiv.org/abs/2403.17811v1",
+    "pdf_url": "https://arxiv.org/pdf/2403.17811v1",
+    "abstract": "To reduce the inference cost of large language models, model compression is increasingly used to create smaller scalable models. However, little is known about their robustness to minority subgroups defined by the labels and attributes of a dataset. In this paper, we investigate the effects of 18 different compression methods and settings on the subgroup robustness of BERT language models. We show that worst-group performance does not depend on model size alone, but also on the compression metho",
+    "categories": [
+      "cs.LG",
+      "cs.CL"
+    ],
+    "query": "resource constrained language model"
+  },
+  "1909.10086v3": {
+    "title": "Learning Universal Graph Neural Network Embeddings With Aid Of Transfer Learning",
+    "authors": [
+      "Saurabh Verma",
+      "Zhi-Li Zhang"
+    ],
+    "year": 2019,
+    "arxiv_id": "1909.10086v3",
+    "url": "http://arxiv.org/abs/1909.10086v3",
+    "pdf_url": "https://arxiv.org/pdf/1909.10086v3",
+    "abstract": "Learning powerful data embeddings has become a center piece in machine learning, especially in natural language processing and computer vision domains. The crux of these embeddings is that they are pretrained on huge corpus of data in a unsupervised fashion, sometimes aided with transfer learning. However currently in the graph learning domain, embeddings learned through existing graph neural networks (GNNs) are task dependent and thus cannot be shared across different datasets. In this paper, w",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "query": "geometry embedding space neural network"
+  },
+  "2503.14298v1": {
+    "title": "Recursive Self-Similarity in Deep Weight Spaces of Neural Architectures: A Fractal and Coarse Geometry Perspective",
+    "authors": [
+      "Ambarish Moharil",
+      "Indika Kumara",
+      "Damian Andrew Tamburri",
+      "Majid Mohammadi",
+      "Willem-Jan van den Heuvel"
+    ],
+    "year": 2025,
+    "arxiv_id": "2503.14298v1",
+    "url": "http://arxiv.org/abs/2503.14298v1",
+    "pdf_url": "https://arxiv.org/pdf/2503.14298v1",
+    "abstract": "This paper conceptualizes the Deep Weight Spaces (DWS) of neural architectures as hierarchical, fractal-like, coarse geometric structures observable at discrete integer scales through recursive dilation. We introduce a coarse group action termed the fractal transformation, $T_{r_k} $, acting under the symmetry group $G = (\\mathbb{Z}, +) $, to analyze neural parameter matrices or tensors, by segmenting the underlying discrete grid $\u03a9$ into $N(r_k)$ fractals across varying observation scales $ r_k",
+    "categories": [
+      "cs.NE",
+      "math.AG",
+      "math.GR"
+    ],
+    "query": "geometry embedding space neural network"
+  },
+  "0711.0446v1": {
+    "title": "Asymptotic Properties of Hilbert Geometry",
+    "authors": [
+      "Alexander A. Borisenko",
+      "Eugeny A. Olin"
+    ],
+    "year": 2007,
+    "arxiv_id": "0711.0446v1",
+    "url": "http://arxiv.org/abs/0711.0446v1",
+    "pdf_url": "https://arxiv.org/pdf/0711.0446v1",
+    "abstract": "We show that the spheres in Hilbert geometry have the same volume growth entropy as those in the Lobachevsky space. We give the asymptotic estimates for the ratio of the volume of metric ball to the area of the metric sphere in Hilbert geometry. Derived estimates agree with the well-known fact in the Lobachevsky space",
+    "categories": [
+      "math.DG",
+      "math.MG"
+    ],
+    "query": "geometry embedding space neural network"
+  },
+  "2301.11375v4": {
+    "title": "How does training shape the Riemannian geometry of neural network representations?",
+    "authors": [
+      "Jacob A. Zavatone-Veth",
+      "Sheng Yang",
+      "Julian A. Rubinfien",
+      "Cengiz Pehlevan"
+    ],
+    "year": 2023,
+    "arxiv_id": "2301.11375v4",
+    "url": "http://arxiv.org/abs/2301.11375v4",
+    "pdf_url": "https://arxiv.org/pdf/2301.11375v4",
+    "abstract": "In machine learning, there is a long history of trying to build neural networks that can learn from fewer example data by baking in strong geometric priors. However, it is not always clear a priori what geometric constraints are appropriate for a given task. Here, we explore the possibility that one can uncover useful geometric inductive biases by studying how training molds the Riemannian geometry induced by unconstrained neural network feature maps. We first show that at infinite width, neural",
+    "categories": [
+      "cs.LG",
+      "cond-mat.dis-nn",
+      "stat.ML"
+    ],
+    "query": "geometry embedding space neural network"
+  },
+  "2402.14009v4": {
+    "title": "Geometry-Informed Neural Networks",
+    "authors": [
+      "Arturs Berzins",
+      "Andreas Radler",
+      "Eric Volkmann",
+      "Sebastian Sanokowski",
+      "Sepp Hochreiter"
+    ],
+    "year": 2024,
+    "arxiv_id": "2402.14009v4",
+    "url": "http://arxiv.org/abs/2402.14009v4",
+    "pdf_url": "https://arxiv.org/pdf/2402.14009v4",
+    "abstract": "Geometry is a ubiquitous tool in computer graphics, design, and engineering. However, the lack of large shape datasets limits the application of state-of-the-art supervised learning methods and motivates the exploration of alternative learning strategies. To this end, we introduce geometry-informed neural networks (GINNs) -- a framework for training shape-generative neural fields without data by leveraging user-specified design requirements in the form of objectives and constraints. By adding di",
+    "categories": [
+      "cs.LG",
+      "cs.CV"
+    ],
+    "query": "geometry embedding space neural network"
+  },
+  "1901.07264v4": {
+    "title": "Network Together: Node Classification via Cross network Deep Network Embedding",
+    "authors": [
+      "Xiao Shen",
+      "Quanyu Dai",
+      "Sitong Mao",
+      "Fu-lai Chung",
+      "Kup-Sze Choi"
+    ],
+    "year": 2019,
+    "arxiv_id": "1901.07264v4",
+    "url": "http://arxiv.org/abs/1901.07264v4",
+    "pdf_url": "https://arxiv.org/pdf/1901.07264v4",
+    "abstract": "Network embedding is a highly effective method to learn low-dimensional node vector representations with original network structures being well preserved. However, existing network embedding algorithms are mostly developed for a single network, which fail to learn generalized feature representations across different networks. In this paper, we study a cross-network node classification problem, which aims at leveraging the abundant labeled information from a source network to help classify the un",
+    "categories": [
+      "cs.SI"
+    ],
+    "query": "geometry embedding space neural network"
+  },
+  "1906.10015v2": {
+    "title": "A Review on Neural Network Models of Schizophrenia and Autism Spectrum Disorder",
+    "authors": [
+      "Pablo Lanillos",
+      "Daniel Oliva",
+      "Anja Philippsen",
+      "Yuichi Yamashita",
+      "Yukie Nagai"
+    ],
+    "year": 2019,
+    "arxiv_id": "1906.10015v2",
+    "url": "http://arxiv.org/abs/1906.10015v2",
+    "pdf_url": "https://arxiv.org/pdf/1906.10015v2",
+    "abstract": "This survey presents the most relevant neural network models of autism spectrum disorder and schizophrenia, from the first connectionist models to recent deep network architectures. We analyzed and compared the most representative symptoms with its neural model counterpart, detailing the alteration introduced in the network that generates each of the symptoms, and identifying their strengths and weaknesses. We additionally cross-compared Bayesian and free-energy approaches, as they are widely ap",
+    "categories": [
+      "q-bio.NC",
+      "cs.AI",
+      "cs.NE"
+    ],
+    "query": "geometry embedding space neural network"
+  },
+  "1411.1792v1": {
+    "title": "How transferable are features in deep neural networks?",
+    "authors": [
+      "Jason Yosinski",
+      "Jeff Clune",
+      "Yoshua Bengio",
+      "Hod Lipson"
+    ],
+    "year": 2014,
+    "arxiv_id": "1411.1792v1",
+    "url": "http://arxiv.org/abs/1411.1792v1",
+    "pdf_url": "https://arxiv.org/pdf/1411.1792v1",
+    "abstract": "Many deep neural networks trained on natural images exhibit a curious phenomenon in common: on the first layer they learn features similar to Gabor filters and color blobs. Such first-layer features appear not to be specific to a particular dataset or task, but general in that they are applicable to many datasets and tasks. Features must eventually transition from general to specific by the last layer of the network, but this transition has not been studied extensively. In this paper we experime",
+    "categories": [
+      "cs.LG",
+      "cs.NE"
+    ],
+    "query": "geometry embedding space neural network"
+  },
+  "0505221v1": {
+    "title": "Sasakian Geometry and Einstein Metrics on Spheres",
+    "authors": [
+      "Charles P. Boyer",
+      "Krzysztof Galicki"
+    ],
+    "year": 2005,
+    "arxiv_id": "0505221v1",
+    "url": "http://arxiv.org/abs/math/0505221v1",
+    "pdf_url": "https://arxiv.org/pdf/math/0505221v1",
+    "abstract": "This paper is based on a talk presented by the first author at the Short Program on Riemannian Geometry that took place at the Centre de Recherche Math\u00e9matiques, Universit\u00e9 de Montr\u00e9al, during the period June 28-July 16, 2004. It is a report on our joint work with J\u00e1nos Koll\u00e1r concerning the existence of an abundance of Einstein metrics on odd dimensional spheres, including exotic spheres.",
+    "categories": [
+      "math.DG",
+      "math.AG"
+    ],
+    "query": "geometry embedding space neural network"
+  },
+  "1810.12836v4": {
+    "title": "Learning Cross-Lingual Sentence Representations via a Multi-task Dual-Encoder Model",
+    "authors": [
+      "Muthuraman Chidambaram",
+      "Yinfei Yang",
+      "Daniel Cer",
+      "Steve Yuan",
+      "Yun-Hsuan Sung"
+    ],
+    "year": 2018,
+    "arxiv_id": "1810.12836v4",
+    "url": "http://arxiv.org/abs/1810.12836v4",
+    "pdf_url": "https://arxiv.org/pdf/1810.12836v4",
+    "abstract": "A significant roadblock in multilingual neural language modeling is the lack of labeled non-English data. One potential method for overcoming this issue is learning cross-lingual text representations that can be used to transfer the performance from training on English tasks to non-English tasks, despite little to no task-specific non-English data. In this paper, we explore a natural setup for learning cross-lingual sentence representations: the dual-encoder. We provide a comprehensive evaluatio",
+    "categories": [
+      "cs.CL"
+    ],
+    "query": "topological features representation learning"
+  },
+  "1910.03081v1": {
+    "title": "On the Interpretability and Evaluation of Graph Representation Learning",
+    "authors": [
+      "Antonia Gogoglou",
+      "C. Bayan Bruss",
+      "Keegan E. Hines"
+    ],
+    "year": 2019,
+    "arxiv_id": "1910.03081v1",
+    "url": "http://arxiv.org/abs/1910.03081v1",
+    "pdf_url": "https://arxiv.org/pdf/1910.03081v1",
+    "abstract": "With the rising interest in graph representation learning, a variety of approaches have been proposed to effectively capture a graph's properties. While these approaches have improved performance in graph machine learning tasks compared to traditional graph techniques, they are still perceived as techniques with limited insight into the information encoded in these representations. In this work, we explore methods to interpret node embeddings and propose the creation of a robust evaluation frame",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "query": "topological features representation learning"
+  },
+  "1905.12588v2": {
+    "title": "Meta-Learning Representations for Continual Learning",
+    "authors": [
+      "Khurram Javed",
+      "Martha White"
+    ],
+    "year": 2019,
+    "arxiv_id": "1905.12588v2",
+    "url": "http://arxiv.org/abs/1905.12588v2",
+    "pdf_url": "https://arxiv.org/pdf/1905.12588v2",
+    "abstract": "A continual learning agent should be able to build on top of existing knowledge to learn on new data quickly while minimizing forgetting. Current intelligent systems based on neural network function approximators arguably do the opposite---they are highly prone to forgetting and rarely trained to facilitate future learning. One reason for this poor behavior is that they learn from a representation that is not explicitly trained for these two goals. In this paper, we propose OML, an objective tha",
+    "categories": [
+      "cs.LG",
+      "cs.AI",
+      "stat.ML"
+    ],
+    "query": "topological features representation learning"
+  },
+  "2506.09781v2": {
+    "title": "On the Similarities of Embeddings in Contrastive Learning",
+    "authors": [
+      "Chungpa Lee",
+      "Sehee Lim",
+      "Kibok Lee",
+      "Jy-yong Sohn"
+    ],
+    "year": 2025,
+    "arxiv_id": "2506.09781v2",
+    "url": "http://arxiv.org/abs/2506.09781v2",
+    "pdf_url": "https://arxiv.org/pdf/2506.09781v2",
+    "abstract": "Contrastive learning operates on a simple yet effective principle: Embeddings of positive pairs are pulled together, while those of negative pairs are pushed apart. In this paper, we propose a unified framework for understanding contrastive learning through the lens of cosine similarity, and present two key theoretical insights derived from this framework. First, in full-batch settings, we show that perfect alignment of positive pairs is unattainable when negative-pair similarities fall below a ",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "query": "topological features representation learning"
+  },
+  "2206.14687v1": {
+    "title": "Multi-scale Physical Representations for Approximating PDE Solutions with Graph Neural Operators",
+    "authors": [
+      "L\u00e9on Migus",
+      "Yuan Yin",
+      "Jocelyn Ahmed Mazari",
+      "Patrick Gallinari"
+    ],
+    "year": 2022,
+    "arxiv_id": "2206.14687v1",
+    "url": "http://arxiv.org/abs/2206.14687v1",
+    "pdf_url": "https://arxiv.org/pdf/2206.14687v1",
+    "abstract": "Representing physical signals at different scales is among the most challenging problems in engineering. Several multi-scale modeling tools have been developed to describe physical systems governed by \\emph{Partial Differential Equations} (PDEs). These tools are at the crossroad of principled physical models and numerical schema. Recently, data-driven models have been introduced to speed-up the approximation of PDE solutions compared to numerical solvers. Among these recent data-driven methods, ",
+    "categories": [
+      "cs.LG",
+      "cs.CV"
+    ],
+    "query": "topological features representation learning"
+  },
+  "1812.09225v4": {
+    "title": "Learning Representations from Dendrograms",
+    "authors": [
+      "Morteza Haghir Chehreghani",
+      "Mostafa Haghir Chehreghani"
+    ],
+    "year": 2018,
+    "arxiv_id": "1812.09225v4",
+    "url": "http://arxiv.org/abs/1812.09225v4",
+    "pdf_url": "https://arxiv.org/pdf/1812.09225v4",
+    "abstract": "We propose unsupervised representation learning and feature extraction from dendrograms. The commonly used Minimax distance measures correspond to building a dendrogram with single linkage criterion, with defining specific forms of a level function and a distance function over that. Therefore, we extend this method to arbitrary dendrograms. We develop a generalized framework wherein different distance measures and representations can be inferred from different types of dendrograms, level functio",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "query": "topological features representation learning"
+  },
+  "1101.2456v3": {
+    "title": "Polynomial representations and categorifications of Fock Space",
+    "authors": [
+      "Jiuzu Hong",
+      "Oded Yacobi"
+    ],
+    "year": 2011,
+    "arxiv_id": "1101.2456v3",
+    "url": "http://arxiv.org/abs/1101.2456v3",
+    "pdf_url": "https://arxiv.org/pdf/1101.2456v3",
+    "abstract": "The rings of symmetric polynomials form an inverse system whose limit, the ring of symmetric functions, is the model for the bosonic Fock space representation of the affine Lie algebra. We categorify this construction by considering an inverse limit of categories of polynomial representation of general linear groups. We show that this limit naturally carries an action of the affine Lie algebra (in the sense of Rouquier), thereby obtaining a famiy of categorifications of the bosonic Fock space re",
+    "categories": [
+      "math.RT",
+      "math.CT"
+    ],
+    "query": "topological features representation learning"
+  },
+  "1812.01662v1": {
+    "title": "Feed-Forward Neural Networks Need Inductive Bias to Learn Equality Relations",
+    "authors": [
+      "Tillman Weyde",
+      "Radha Manisha Kopparti"
+    ],
+    "year": 2018,
+    "arxiv_id": "1812.01662v1",
+    "url": "http://arxiv.org/abs/1812.01662v1",
+    "pdf_url": "https://arxiv.org/pdf/1812.01662v1",
+    "abstract": "Basic binary relations such as equality and inequality are fundamental to relational data structures. Neural networks should learn such relations and generalise to new unseen data. We show in this study, however, that this generalisation fails with standard feed-forward networks on binary vectors. Even when trained with maximal training data, standard networks do not reliably detect equality.We introduce differential rectifier (DR) units that we add to the network in different configurations. Th",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "query": "topological features representation learning"
+  },
+  "2301.12636v2": {
+    "title": "Exploring Image Augmentations for Siamese Representation Learning with Chest X-Rays",
+    "authors": [
+      "Rogier van der Sluijs",
+      "Nandita Bhaskhar",
+      "Daniel Rubin",
+      "Curtis Langlotz",
+      "Akshay Chaudhari"
+    ],
+    "year": 2023,
+    "arxiv_id": "2301.12636v2",
+    "url": "http://arxiv.org/abs/2301.12636v2",
+    "pdf_url": "https://arxiv.org/pdf/2301.12636v2",
+    "abstract": "Image augmentations are quintessential for effective visual representation learning across self-supervised learning techniques. While augmentation strategies for natural imaging have been studied extensively, medical images are vastly different from their natural counterparts. Thus, it is unknown whether common augmentation strategies employed in Siamese representation learning generalize to medical images and to what extent. To address this challenge, in this study, we systematically assess the",
+    "categories": [
+      "eess.IV",
+      "cs.AI",
+      "cs.CV",
+      "cs.LG"
+    ],
+    "query": "topological features representation learning"
+  },
+  "1909.08167v1": {
+    "title": "Weighed Domain-Invariant Representation Learning for Cross-domain Sentiment Analysis",
+    "authors": [
+      "Minlong Peng",
+      "Qi Zhang",
+      "Xuanjing Huang"
+    ],
+    "year": 2019,
+    "arxiv_id": "1909.08167v1",
+    "url": "http://arxiv.org/abs/1909.08167v1",
+    "pdf_url": "https://arxiv.org/pdf/1909.08167v1",
+    "abstract": "Cross-domain sentiment analysis is currently a hot topic in the research and engineering areas. One of the most popular frameworks in this field is the domain-invariant representation learning (DIRL) paradigm, which aims to learn a distribution-invariant feature representation across domains. However, in this work, we find out that applying DIRL may harm domain adaptation when the label distribution $\\rm{P}(\\rm{Y})$ changes across domains. To address this problem, we propose a modification to DI",
+    "categories": [
+      "cs.LG",
+      "cs.CL",
+      "stat.ML"
+    ],
+    "query": "topological features representation learning"
+  },
+  "0711.0795v4": {
+    "title": "Finite-Dimensional Representations of Hyper Loop Algebras Over Non-Algebraically Closed Fields",
+    "authors": [
+      "Dijana Jakelic",
+      "Adriano Moura"
+    ],
+    "year": 2007,
+    "arxiv_id": "0711.0795v4",
+    "url": "http://arxiv.org/abs/0711.0795v4",
+    "pdf_url": "https://arxiv.org/pdf/0711.0795v4",
+    "abstract": "We study finite-dimensional representations of hyper loop algebras over non-algebraically closed fields. The main results concern the classification of the irreducible representations, the construction of the Weyl modules, base change, tensor products of irreducible and Weyl modules, and the block decomposition of the underlying abelian category. Several results are interestingly related to the study of irreducible representations of polynomial algebras and Galois theory.",
+    "categories": [
+      "math.RT",
+      "math.AG"
+    ],
+    "query": "topological features representation learning"
+  },
+  "2304.13195v1": {
+    "title": "Connector 0.5: A unified framework for graph representation learning",
+    "authors": [
+      "Thanh Sang Nguyen",
+      "Jooho Lee",
+      "Van Thuy Hoang",
+      "O-Joun Lee"
+    ],
+    "year": 2023,
+    "arxiv_id": "2304.13195v1",
+    "url": "http://arxiv.org/abs/2304.13195v1",
+    "pdf_url": "https://arxiv.org/pdf/2304.13195v1",
+    "abstract": "Graph representation learning models aim to represent the graph structure and its features into low-dimensional vectors in a latent space, which can benefit various downstream tasks, such as node classification and link prediction. Due to its powerful graph data modelling capabilities, various graph embedding models and libraries have been proposed to learn embeddings and help researchers ease conducting experiments. In this paper, we introduce a novel graph representation framework covering var",
+    "categories": [
+      "cs.LG",
+      "cs.SI"
+    ],
+    "query": "topological features representation learning"
+  },
+  "1812.03395v1": {
+    "title": "Learning Graph Representation via Formal Concept Analysis",
+    "authors": [
+      "Yuka Yoneda",
+      "Mahito Sugiyama",
+      "Takashi Washio"
+    ],
+    "year": 2018,
+    "arxiv_id": "1812.03395v1",
+    "url": "http://arxiv.org/abs/1812.03395v1",
+    "pdf_url": "https://arxiv.org/pdf/1812.03395v1",
+    "abstract": "We present a novel method that can learn a graph representation from multivariate data. In our representation, each node represents a cluster of data points and each edge represents the subset-superset relationship between clusters, which can be mutually overlapped. The key to our method is to use formal concept analysis (FCA), which can extract hierarchical relationships between clusters based on the algebraic closedness property. We empirically show that our method can effectively extract hier",
+    "categories": [
+      "cs.LG",
+      "stat.ML"
+    ],
+    "query": "topological features representation learning"
+  },
+  "0402188v5": {
+    "title": "Structures and Representations of Generalized Path Algebras",
+    "authors": [
+      "Shouchuan Zhang",
+      "Yao-Zhong Zhang"
+    ],
+    "year": 2004,
+    "arxiv_id": "0402188v5",
+    "url": "http://arxiv.org/abs/math/0402188v5",
+    "pdf_url": "https://arxiv.org/pdf/math/0402188v5",
+    "abstract": "It is shown that an algebra $\u039b$ can be lifted with nilpotent Jacobson radical $r = r(\u039b)$ and has a generalized matrix unit $\\{e_{ii}\\}_I$ with each $\\bar e_{ii} $ in the center of $\\bar \u039b= \u039b/r$ iff $\u039b$ is isomorphic to a generalized path algebra with weak relations. Representations of the generalized path algebras are given. As a corollary, $\u039b$ is a finite algebra with non-zero unity element over perfect field $k$ (e.g. a field with characteristic zero or a finite field) iff $\u039b$ is isomorphic to",
+    "categories": [
+      "math.RA",
+      "math.RT"
+    ],
+    "query": "topological features representation learning"
+  },
+  "1005.0140v4": {
+    "title": "Representations of hom-Lie algebras",
+    "authors": [
+      "Yunhe Sheng"
+    ],
+    "year": 2010,
+    "arxiv_id": "1005.0140v4",
+    "url": "http://arxiv.org/abs/1005.0140v4",
+    "pdf_url": "https://arxiv.org/pdf/1005.0140v4",
+    "abstract": "In this paper, we study representations of hom-Lie algebras. In particular, the adjoint representation and the trivial representation of hom-Lie algebras are studied in detail. Derivations, deformations, central extensions and derivation extensions of hom-Lie algebras are also studied as an application.",
+    "categories": [
+      "math-ph",
+      "math.RA",
+      "math.RT"
+    ],
+    "query": "topological features representation learning"
+  }
+}
